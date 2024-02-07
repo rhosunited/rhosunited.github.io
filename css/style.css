@@ -34,6 +34,10 @@ a:hover {
   background: #000 !important;
 }
 
+.bg-white {
+  background: #fff;
+}
+
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
