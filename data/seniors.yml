@@ -1,0 +1,143 @@
+staff:
+  -
+    name: David Algieri
+    role: First Team Manager
+    photo: /images/logo.png
+  -
+    name: Matty Graham
+    role: Assistant Manager
+    photo: /images/logo.png
+  -
+    name: Alec Jones
+    role: Assistant Manager
+    photo: /images/logo.png
+  -
+    name: Gavin Thomas
+    role: COMET Manager
+    photo: /images/logo.png
+
+players:
+  -
+    name: Gavin Lewis
+    role: Goalkeeper
+    photo: /images/logo.png
+  -
+    name: Felix Domagala
+    role: Goalkeeper
+    photo: /images/logo.png
+  -
+    name: Matty Russell
+    role: Goalkeeper
+    photo: /images/logo.png
+  -
+    name: Ste Bibby
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Alex Williams
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Alec Jones
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Alex Stokes
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: John King
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Jordan Dixon
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Oliver Hughes
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Rich Bearon
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Scott Hewitt
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Theo Davies
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Tom Edgley
+    role: Defender
+    photo: /images/logo.png
+  -
+    name: Billy Bibby
+    role: Midfielder
+    photo: /images/logo.png
+  -
+    name: Callum McMillan-Howden
+    role: Midfielder
+    photo: /images/logo.png
+  -
+    name: Chris King
+    role: Midfielder (Vice Captain)
+    photo: /images/logo.png
+  -
+    name: Dewi Algieri
+    role: Midfielder
+    photo: /images/logo.png
+  -
+    name: Matt Christie
+    role: Midfielder
+    photo: /images/logo.png
+  -
+    name: Ray Lee
+    role: Midfielder
+    photo: /images/logo.png
+  -
+    name: Ryan Evans
+    role: Midfielder
+    photo: /images/logo.png
+  -
+    name: Tom Skelley
+    role: Midfielder (Captain)
+    photo: /images/logo.png
+  -
+    name: Adam Noble
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: AJ Woosey
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Bret Durkan
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Elliott Hughes
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Femi Allison
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Gabriel George
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Scott Court
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Tom Brady
+    role: Attacker
+    photo: /images/logo.png
+  -
+    name: Tommy Edwards
+    role: Attacker
+    photo: /images/logo.png

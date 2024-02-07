@@ -1,0 +1,15 @@
+fixtures:
+  -
+    hometeam: Glan Conwy FC
+    hometeamlogo: /images/generic_ball.png
+    awayteam: Llysfaen FC
+    awayteamlogo: /images/logo.png
+    date: 2024-02-10
+    ground: Cae Ffwt
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Prestatyn Wanderers AFC
+    awayteamlogo: /images/generic_ball.png
+    date: 2024-02-24
+    ground: Brookfield Drive

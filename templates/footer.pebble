@@ -31,7 +31,8 @@
               </div>
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
-                  <li><a href="/about.html">About</a></li>
+                  <li><a href="/club/about.html">About</a></li>
+                  <li><a href="/club/committee.html">Committee</a></li>
                   <li><a href="/contact.html">Contact</a></li>
                 </ul>
               </div>

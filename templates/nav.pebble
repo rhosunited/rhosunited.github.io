@@ -28,7 +28,7 @@
       <nav class="site-navigation position-relative text-right bg-black text-md-right" role="navigation">
         <div class="container position-relative">
           <div class="site-logo">
-            <a href="/index.html"><img src="images/logo.png" alt=""></a>
+            <a href="/index.html"><img src="/images/logo.png" alt=""></a>
           </div>
 
           <div class="d-inline-block d-md-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
@@ -46,11 +46,14 @@
               <ul class="dropdown arrow-top">
                 <li><a href="/teams/seniors.html">Seniors</a></li>
                 <li><a href="/teams/juniors.html">Juniors</a></li>
-                <li><a href="#">Team 3</a></li>
               </ul>
             </li>
-            {% if content.activemenu == "about" %}<li class="active">{% else %}<li>{% endif %}
-                <a href="/about.html">About</a>
+            {% if content.activemenu == "club" %}<li class="has-children active">{% else %}<li class="has-children">{% endif %}
+              <a href="#">Club</a>
+              <ul class="dropdown arrow-top">
+                <li><a href="/club/about.html">About</a></li>
+                <li><a href="/club/committee.html">Committee</a></li>
+              </ul>
             </li>
             {% if content.activemenu == "contact" %}<li class="active">{% else %}<li>{% endif %}
                 <a href="/contact.html">Contact</a>
