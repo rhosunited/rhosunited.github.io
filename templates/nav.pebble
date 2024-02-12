@@ -53,6 +53,7 @@
               <ul class="dropdown arrow-top">
                 <li><a href="/club/about.html">About</a></li>
                 <li><a href="/club/committee.html">Committee</a></li>
+                <li><a href="/club/sponsors.html">Sponsors</a></li>
               </ul>
             </li>
             {% if content.activemenu == "contact" %}<li class="active">{% else %}<li>{% endif %}

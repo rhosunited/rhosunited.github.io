@@ -1,0 +1,38 @@
+{% extends "base.pebble" %}
+
+{% block title %}
+{{ content.title }}
+{% endblock %}
+
+{% block body %}
+
+
+
+<div class="site-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center mb-5">
+                <h2 class="text-black">Committee</h2>
+            </div>
+        </div>
+        <div class="row">
+            {% for staff in data.get("committee.yml").committee %}
+
+                <div class="mb-4 mb-lg-0 col-6 col-md-4 col-lg-3 text-center">
+                    <div class="committee mb-5">
+                        <!--<span class="team-number">10</span>-->
+                        <img src="{{staff.photo}}" alt="Image" class="img-fluid image rounded-circle">
+                        <h2>{{staff.role}}</h2>
+                        <span class="position">{{staff.name}}</span>
+                        {% if staff.email %}
+                        <p><a class="text-secondary" href="#"><span class="icon-envelope mr-2"></span><span>info@rhosunited.co.uk</span></a></p>
+                        {% endif %}
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

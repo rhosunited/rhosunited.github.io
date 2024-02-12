@@ -106,7 +106,23 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6 col-lg-4">
+                {% for news in newsitems | slice(0, 2) %}
+
+                      <div class="col-md-6 col-lg-4">
+                        <div class="post-entry bg-white">
+                          <div class="image">
+                            <img src="{{news.headerimage}}" alt="Image" class="img-fluid">
+                          </div>
+                          <div class="text p-4">
+                            <h2 class="h5 text-black"><a href="{{news.uri}}">{{news.title}}</a></h2>
+                            <span class="text-uppercase date d-block mb-3"><small>{{news.author}} &bullet; {{news.date|date("dd MMMM yyyy")}}</small></span>
+                            <p class="mb-0">{{news.header.subtitle}}</p>
+                          </div>
+                        </div>
+                      </div>
+
+                {% endfor %}
+                  <!--<div class="col-md-6 col-lg-4">
                     <div class="post-entry bg-white">
                       <div class="image">
                         <img src="images/img_1.jpg" alt="Image" class="img-fluid">
@@ -141,7 +157,7 @@
                         <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat beatae doloremque, ex corrupti perspiciatis.</p>
                       </div>
                     </div>
-                  </div>
+                  </div>-->
             </div>
           </div>
 

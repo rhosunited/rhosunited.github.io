@@ -77,6 +77,7 @@ players:
     name: Billy Bibby
     role: Midfielder
     photo: /images/logo.png
+    infoimage: /images/seniors/billy-bibby.jpg
   -
     name: Callum McMillan-Howden
     role: Midfielder
@@ -85,6 +86,7 @@ players:
     name: Chris King
     role: Midfielder (Vice Captain)
     photo: /images/logo.png
+    infoimage: /images/seniors/chris-king.jpg
   -
     name: Dewi Algieri
     role: Midfielder

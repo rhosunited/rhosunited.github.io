@@ -1123,7 +1123,6 @@ a:hover {
 }
 
 .player img {
-  max-width: 100px;
   border-radius: 50%;
   margin-bottom: 20px;
 }
@@ -1156,6 +1155,48 @@ a:hover {
   font-size: 14px;
   color: #b3b3b3;
   text-transform: uppercase;
+}
+
+.committee {
+  position: relative;
+}
+
+.committee img {
+  margin-bottom: 20px;
+}
+
+.committee .team-number {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #f23a2e;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.committee .team-number > span {
+  position: absolute;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+
+.committee h2 {
+  font-size: 20px;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
+.committee .position {
+  font-size: 18px;
+  color: #b3b3b3;
+  text-transform: uppercase;
+}
+
+.committee a {
+  font-size: 14px;
 }
 
 .site-block-27 ul, .site-block-27 ul li {
