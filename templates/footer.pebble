@@ -45,11 +45,11 @@
               <h3 class="footer-heading mb-4">Recent News</h3>
               <div class="block-25">
                 <ul class="list-unstyled">
-                  {% for news in newsitems | slice(0, 2) %}
+                  {% for news in published_newsitems | slice(0, 1) %}
                     <li class="mb-3">
                       <a href="{{news.uri}}" class="d-flex">
                         <figure class="image mr-4">
-                          <img src="{% if content.rootpath  %}{{content.rootpath}}{% endif %}{{news.headerimage}}" alt="" class="img-fluid">
+                          <img src="{{news.newsimage}}" alt="" class="img-fluid">
                         </figure>
                         <div class="text">
                           <h3 class="heading font-weight-light">{{news.title}}</h3>
@@ -57,67 +57,9 @@
                       </a>
                     </li>
                   {% endfor %}
-                  <!--<li class="mb-3">
-                    <a href="#" class="d-flex">
-                      <figure class="image mr-4">
-                        <img src="{% if content.rootpath  %}{{content.rootpath}}{% endif %}images/img_1.jpg" alt="" class="img-fluid">
-                      </figure>
-                      <div class="text">
-                        <h3 class="heading font-weight-light">Lorem ipsum dolor sit amet consectetur elit</h3>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mb-3">
-                    <a href="#" class="d-flex">
-                      <figure class="image mr-4">
-                        <img src="{% if content.rootpath  %}{{content.rootpath}}{% endif %}images/img_2.jpg" alt="" class="img-fluid">
-                      </figure>
-                      <div class="text">
-                        <h3 class="heading font-weight-light">Lorem ipsum dolor sit amet consectetur elit</h3>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mb-3">
-                    <a href="#" class="d-flex">
-                      <figure class="image mr-4">
-                        <img src="{% if content.rootpath  %}{{content.rootpath}}{% endif %}images/img_3.jpg" alt="" class="img-fluid">
-                      </figure>
-                      <div class="text">
-                        <h3 class="heading font-weight-light">Lorem ipsum dolor sit amet consectetur elit</h3>
-                      </div>
-                    </a>
-                  </li>-->
                 </ul>
               </div>
             </div>
-
-            <!--<div class="mb-5">
-              <h3 class="footer-heading mb-4">Watch Video</h3>
-
-              <div class="block-16">
-                <figure>
-                  <img src="{% if content.rootpath  %}{{content.rootpath}}{% endif %}images/img_1.jpg" alt="Image placeholder" class="img-fluid rounded">
-                  <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="icon-play"></span></a>
-                </figure>
-              </div>
-
-            </div>
-
-            <div class="mb-5">
-              <h3 class="footer-heading mb-2">Subscribe Newsletter</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit minima minus odio.</p>
-
-              <form action="#" method="post">
-                <div class="input-group mb-3">
-                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
-                  <div class="input-group-append">
-                    <button class="btn btn-primary" type="button" id="button-addon2">Send</button>
-                  </div>
-                </div>
-              </form>
-
-            </div>-->
-
           </div>
 
         </div>

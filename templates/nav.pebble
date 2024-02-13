@@ -28,7 +28,7 @@
       <nav class="site-navigation position-relative text-right bg-black text-md-right" role="navigation">
         <div class="container position-relative">
           <div class="site-logo">
-            <a href="/index.html"><img src="/images/logo.png" alt=""></a>
+            <a href="/index.html"><img src="/images/logo.png" alt="Rhos United Logo"></a>
           </div>
 
           <div class="d-inline-block d-md-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
@@ -40,7 +40,6 @@
             {% if content.activemenu == "news" %}<li class="active">{% else %}<li>{% endif %}
               <a href="/news.html">News</a>
             </li>
-            <!--<li><a href="matches.html">Matches</a></li>-->
             {% if content.activemenu == "teams" %}<li class="has-children active">{% else %}<li class="has-children">{% endif %}
               <a href="#">Teams</a>
               <ul class="dropdown arrow-top">
@@ -71,7 +70,6 @@
             <div class="col-md-8 text-center text-md-left" data-aos="fade-up" data-aos-delay="400">
               <h1 class="bg-text-line">{% if content.headertitle %}{{ content.headertitle }}{% else %}Official home of Rhos United{% endif %}</h1>
               {% if content.headersubtitle %}<p class="mt-4">{{ content.headersubtitle }}</p>{% else %}{% endif %}
-              <!--<p><a href="#" class="btn btn-primary btn-sm rounded-0 py-3 px-5">Read More</a></p>-->
             </div>
           </div>
         </div>

@@ -21,6 +21,7 @@ players:
     name: Gavin Lewis
     role: Goalkeeper
     photo: /images/logo.png
+    infoimage: /images/seniors/gavin-lewis.jpg
   -
     name: Felix Domagala
     role: Goalkeeper
@@ -41,6 +42,7 @@ players:
     name: Alec Jones
     role: Defender
     photo: /images/logo.png
+    infoimage: /images/seniors/alec-jones.jpg
   -
     name: Alex Stokes
     role: Defender
@@ -49,10 +51,12 @@ players:
     name: John King
     role: Defender
     photo: /images/logo.png
+    infoimage: /images/seniors/john-king.jpg
   -
     name: Jordan Dixon
     role: Defender
     photo: /images/logo.png
+    infoimage: /images/seniors/jordan-dixon.jpg
   -
     name: Oliver Hughes
     role: Defender
@@ -73,6 +77,7 @@ players:
     name: Tom Edgley
     role: Defender
     photo: /images/logo.png
+    infoimage: /images/seniors/tom-edgley.jpg
   -
     name: Billy Bibby
     role: Midfielder
@@ -91,10 +96,12 @@ players:
     name: Dewi Algieri
     role: Midfielder
     photo: /images/logo.png
+    infoimage: /images/seniors/dewi-algieri.jpg
   -
     name: Matt Christie
     role: Midfielder
     photo: /images/logo.png
+    infoimage: /images/seniors/matt-christie.jpg
   -
     name: Ray Lee
     role: Midfielder
@@ -119,14 +126,16 @@ players:
     name: Bret Durkan
     role: Attacker
     photo: /images/logo.png
+    infoimage: /images/seniors/bret-durkan.jpg
   -
     name: Elliott Hughes
     role: Attacker
     photo: /images/logo.png
   -
-    name: Femi Allison
+    name: Phemmy Alison
     role: Attacker
     photo: /images/logo.png
+    infoimage: /images/seniors/phemmy-alison.jpg
   -
     name: Gabriel George
     role: Attacker
@@ -135,10 +144,12 @@ players:
     name: Scott Court
     role: Attacker
     photo: /images/logo.png
+    infoimage: /images/seniors/scott-court.jpg
   -
     name: Tom Brady
     role: Attacker
     photo: /images/logo.png
+    infoimage: /images/seniors/tom-brady.jpg
   -
     name: Tommy Edwards
     role: Attacker
