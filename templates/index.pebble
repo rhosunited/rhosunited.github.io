@@ -72,7 +72,7 @@
             </div>
 
             <div class="row">
-                {% for news in published_newsitems | slice(0, 1) %}
+                {% for news in published_newsitems | slice(0, 2) %}
 
                       <div class="col-md-6 col-lg-4">
                         <div class="post-entry bg-white">

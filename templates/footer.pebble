@@ -45,7 +45,7 @@
               <h3 class="footer-heading mb-4">Recent News</h3>
               <div class="block-25">
                 <ul class="list-unstyled">
-                  {% for news in published_newsitems | slice(0, 1) %}
+                  {% for news in published_newsitems | slice(0, 2) %}
                     <li class="mb-3">
                       <a href="{{news.uri}}" class="d-flex">
                         <figure class="image mr-4">
