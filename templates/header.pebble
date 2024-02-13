@@ -1,8 +1,9 @@
     <title>{% block title %}{{content.title}}{% endblock %} | Rhos United</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="generator" content="JBake"/>
-    <meta name="generation" content="{{version}}" />
+    <meta name="keywords" content="rhos united, grassroots, football club, rhos on sea, {% for tag in content.tags%}{{tag}}, {% endfor %}" />
+    <meta name="generator" content="JBake {{version}}"/>
+    <meta name="generation" content="{{published_date|date}}" />
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700">
     <link rel="stylesheet" href="{% if content.rootpath  %}{{content.rootpath}}{% endif %}fonts/icomoon/style.css">

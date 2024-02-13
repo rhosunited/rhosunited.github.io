@@ -17,7 +17,7 @@
                       </div>
                       <div class="text p-4">
                         <h2 class="h5 text-black"><a href="{{news.uri}}">{{news.title}}</a></h2>
-                        <span class="text-uppercase date d-block mb-3"><small>By {{news.author}} &bullet; {{news.date|date("dd MMMM yyyy")}}</small></span>
+                        <span class="text-uppercase date d-block mb-3"><small>By {{news.author}} &bullet; {{news.date|date("dd MMM yyyy")}}</small></span>
                         <p class="mb-3">{{news.headersubtitle}}</p>
                         <p><a href="{{news.uri}}" class="btn btn-primary btn-sm px-4 py-2 rounded-0">Read More</a></p>
                       </div>
