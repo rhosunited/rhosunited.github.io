@@ -77,7 +77,7 @@
                       <div class="col-md-6 col-lg-4">
                         <div class="post-entry bg-white">
                           <div class="image">
-                            <img src="{{news.headerimage}}" alt="Image" class="img-fluid">
+                            <img src="{{news.newsimage}}" alt="Image" class="img-fluid">
                           </div>
                           <div class="text p-4">
                             <h2 class="h5 text-black"><a href="{{news.uri}}">{{news.title}}</a></h2>
