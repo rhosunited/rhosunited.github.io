@@ -1,11 +1,11 @@
+nextmatch:
+  hometeam: Rhos United
+  hometeamlogo: /images/logo.png
+  awayteam: Prestatyn Wanderers AFC
+  awayteamlogo: /images/generic_ball.png
+  kickoff: 2024-02-24 14:00
+
 fixtures:
-  -
-    hometeam: Glan Conwy FC
-    hometeamlogo: /images/generic_ball.png
-    awayteam: Llysfaen FC
-    awayteamlogo: /images/logo.png
-    date: 2024-02-17
-    ground: Cae Ffwt
   -
     hometeam: Rhos United
     hometeamlogo: /images/logo.png
