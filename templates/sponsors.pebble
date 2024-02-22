@@ -13,7 +13,7 @@
                 <h2 class="text-black">Sponsors of Rhos United</h2>
                 <p>We extend our heartfelt thanks to all our sponsors for their invaluable support in helping our football club thrive.</p>
                 <p>If you would like to become a sponsor of Rhos United then please get in touch.</p>
-                <p><a href="#" class="btn btn-primary btn-sm px-4 py-2 rounded-0">Contact</a></p>
+                <p><a href="/contact.html" class="btn btn-primary btn-sm px-4 py-2 rounded-0">Contact</a></p>
             </div>
         </div>
         <div class="row">
@@ -21,7 +21,7 @@
                 <h2 class="text-black">Our Sponsors</h2>
             </div>
         </div>
-        <div class="row">
+        <div class="row align-items-center">
             {% for sponsor in data.get("sponsors.yml").sponsors %}
 
                 <div class="mb-4 mb-lg-0 col-6 col-md-4 col-lg-3 text-center">

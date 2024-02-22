@@ -3,15 +3,17 @@ committee:
     name: Gavin Thomas
     role: Chairman
     photo: /images/logo.png
-    email: info@rhosunited.co.uk
+    email: chairman@rhosunited.co.uk
   -
     name: David Ashworth
     role: Secretary
     photo: /images/logo.png
+    email: secretary@rhosunited.co.uk
   -
     name: John Peace
     role: Treasurer
     photo: /images/logo.png
+    email: treasurer@rhosunited.co.uk
   -
     name: Ray Lee
     role: Treasurer - Seniors
@@ -28,6 +30,7 @@ committee:
     name: Dave Algieri / Ray Lee
     role: Head of Seniors
     photo: /images/logo.png
+    email: seniors@rhosunited.co.uk
   -
     name: Gavin Thomas
     role: Head of Juniors

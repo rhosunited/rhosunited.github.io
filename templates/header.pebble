@@ -1,4 +1,4 @@
-    <title>{% block title %}{{content.title}}{% endblock %} | Rhos United</title>
+    <title>{% block title %}{% if content.title %}{{content.title}}{% else %}Home{% endif %}{% endblock %} | Rhos United</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="rhos united, grassroots, football club, rhos on sea, {% for tag in content.tags%}{{tag}}, {% endfor %}" />

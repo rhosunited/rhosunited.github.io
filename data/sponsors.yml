@@ -1,17 +1,13 @@
 sponsors:
   -
+    name: ALG Security
+    logo: /images/sponsors/algsecurity.jpg
+    link: https://algsecurity.co.uk/
+  -
+    name: Tapps Micropub
+    logo: /images/sponsors/tapps.jpg
+    link: https://www.facebook.com/TappsatRhos/
+  -
     name: CXControls
     logo: /images/sponsors/cxcontrols.png
     link: https://cxcontrols.co.uk
-  -
-    name: Gavin Thomas
-    logo: /images/logo.png
-    link: info@rhosunited.co.uk
-  -
-    name: Gavin Thomas
-    logo: /images/logo.png
-    link: info@rhosunited.co.uk
-  -
-    name: Gavin Thomas
-    logo: /images/logo.png
-    link: info@rhosunited.co.uk

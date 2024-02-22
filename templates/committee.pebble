@@ -25,7 +25,7 @@
                         <h2>{{staff.role}}</h2>
                         <span class="position">{{staff.name}}</span>
                         {% if staff.email %}
-                        <p><a class="text-secondary" href="#"><span class="icon-envelope mr-2"></span><span>info@rhosunited.co.uk</span></a></p>
+                        <p><a class="text-secondary" href="mailto:{{staff.email}}"><span class="icon-envelope mr-2"></span></a></p>
                         {% endif %}
                     </div>
                 </div>
