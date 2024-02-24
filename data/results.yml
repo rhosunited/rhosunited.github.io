@@ -3,6 +3,15 @@ results:
     hometeam: Rhos United
     hometeamlogo: /images/logo.png
     hometeamscore: 2
+    awayteam: Prestatyn Wanderers AFC
+    awayteamlogo: /images/generic_ball.png
+    awayteamscore: 0
+    date: 2024-02-24
+    ground: John Bright Leisure Centre
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: 2
     awayteam: Llysfaen FC
     awayteamlogo: /images/generic_ball.png
     awayteamscore: 0

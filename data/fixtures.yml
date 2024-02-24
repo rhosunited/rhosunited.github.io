@@ -1,18 +1,11 @@
 nextmatch:
   hometeam: Rhos United
   hometeamlogo: /images/logo.png
-  awayteam: Prestatyn Wanderers AFC
+  awayteam: CPD Henllan FC
   awayteamlogo: /images/generic_ball.png
-  kickoff: 2024-02-24 14:00
+  kickoff: 2024-03-02 14:00
 
 fixtures:
-  -
-    hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: Prestatyn Wanderers AFC
-    awayteamlogo: /images/generic_ball.png
-    date: 2024-02-24
-    ground: John Bright Leisure Centre
   -
     hometeam: Rhos United
     hometeamlogo: /images/logo.png
