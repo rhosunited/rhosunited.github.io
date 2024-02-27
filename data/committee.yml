@@ -18,14 +18,17 @@ committee:
     name: Ray Lee
     role: Treasurer - Seniors
     photo: /images/logo.png
+    email: treasurer@rhosunited.co.uk
   -
     name: Jonathan Bullock
     role: Treasurer - Juniors
     photo: /images/logo.png
+    email: treasurer@rhosunited.co.uk
   -
     name: Gavin Thomas / David Ashworth
     role: Safeguarding Officers
     photo: /images/logo.png
+    email: safeguarding@rhosunited.co.uk
   -
     name: Dave Algieri / Ray Lee
     role: Head of Seniors
@@ -35,14 +38,17 @@ committee:
     name: Gavin Thomas
     role: Head of Juniors
     photo: /images/logo.png
+    email: juniors@rhosunited.co.uk
   -
     name: Jon Parry
     role: Head of Phase U7s-U11s
     photo: /images/logo.png
+    email: juniors@rhosunited.co.uk
   -
     name: Danny Jones
     role: Head of Phase U12s-U16s
     photo: /images/logo.png
+    email: juniors@rhosunited.co.uk
   -
     name: Bret Durkan
     role: Head of Social Media

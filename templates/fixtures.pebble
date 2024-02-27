@@ -1,5 +1,5 @@
 
-{% for game in data.get("fixtures.yml").fixtures %}
+{% for game in data.get("matches.yml").fixtures %}
 
     {% include "base-match.pebble" %}
 

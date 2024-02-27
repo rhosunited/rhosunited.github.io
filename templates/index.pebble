@@ -12,7 +12,7 @@
                 <div id="date-countdown"></div>
               </div>
 
-              {% set nextmatch = data.get("fixtures.yml").nextmatch %}
+              {% set nextmatch = data.get("matches.yml").nextmatch %}
               <div class="ml-auto pr-4 order-md-2">
                 <div class="h5 text-black text-uppercase text-center text-lg-left">
                   <div class="d-block d-md-inline-block mb-3 mb-lg-0">
