@@ -1,18 +1,11 @@
 nextmatch:
-  hometeam: Llysfaen FC
-  hometeamlogo: /images/teamlogos/llysfaen.jpg
+  hometeam: Glan Conwy FC
+  hometeamlogo: /images/teamlogos/glanconwy.jpg
   awayteam: Rhos United
   awayteamlogo: /images/teamlogos/rhosutd.png
-  kickoff: 2024-04-06 14:30
+  kickoff: 2024-04-13 14:30
 
 fixtures:
-  -
-    hometeam: Llysfaen FC
-    hometeamlogo: /images/teamlogos/llysfaen.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/teamlogos/rhosutd.png
-    date: 2024-04-06
-    ground: The Bananabeu
   -
     hometeam: Glan Conwy FC
     hometeamlogo: /images/teamlogos/glanconwy.jpg
@@ -29,6 +22,15 @@ fixtures:
     ground: Brookfield Drive
 
 results:
+  -
+    hometeam: Llysfaen FC
+    hometeamlogo: /images/teamlogos/llysfaen.jpg
+    hometeamscore: 4
+    awayteam: Rhos United
+    awayteamlogo: /images/teamlogos/rhosutd.png
+    awayteamscore: 2
+    date: 2024-04-06
+    ground: OPS Wind Arena
   -
     hometeam: Rhos United
     hometeamlogo: /images/teamlogos/rhosutd.png
