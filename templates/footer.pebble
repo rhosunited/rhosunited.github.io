@@ -47,7 +47,7 @@
                 <ul class="list-unstyled">
                   {% for news in published_newsitems | slice(0, 3) %}
                     <li class="mb-3">
-                      <a href="{{news.uri}}" class="d-flex">
+                      <a href="/{{news.uri}}" class="d-flex">
                         <figure class="image mr-4">
                           <img src="{{news.newsimage}}" alt="" class="img-fluid">
                         </figure>
