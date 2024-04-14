@@ -1,18 +1,11 @@
 nextmatch:
-  hometeam: Glan Conwy FC
-  hometeamlogo: /images/teamlogos/glanconwy.jpg
-  awayteam: Rhos United
-  awayteamlogo: /images/teamlogos/rhosutd.png
-  kickoff: 2024-04-13 14:30
+  hometeam: Rhos United
+  hometeamlogo: /images/teamlogos/rhosutd.png
+  awayteam: CPD Y Glannau
+  awayteamlogo: /images/teamlogos/yglannau.jpg
+  kickoff: 2024-04-27 14:30
 
 fixtures:
-  -
-    hometeam: Glan Conwy FC
-    hometeamlogo: /images/teamlogos/glanconwy.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/teamlogos/rhosutd.png
-    date: 2024-04-13
-    ground: Cae Ffwt
   -
     hometeam: Rhos United
     hometeamlogo: /images/teamlogos/rhosutd.png
@@ -22,6 +15,15 @@ fixtures:
     ground: Brookfield Drive
 
 results:
+  -
+    hometeam: Glan Conwy FC
+    hometeamlogo: /images/teamlogos/glanconwy.jpg
+    hometeamscore: 3
+    awayteam: Rhos United
+    awayteamlogo: /images/teamlogos/rhosutd.png
+    awayteamscore: 2
+    date: 2024-04-13
+    ground: Cae Ffwt
   -
     hometeam: Llysfaen FC
     hometeamlogo: /images/teamlogos/llysfaen.jpg
