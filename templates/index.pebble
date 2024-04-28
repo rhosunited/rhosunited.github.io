@@ -5,6 +5,8 @@
         <div class="site-blocks-vs site-section bg-light">
           <div class="container">
 
+            {% set nextmatch = data.get("matches.yml").nextmatch %}
+            {% if nextmatch.hometeam %}
             <div class="border mb-3 rounded d-block d-lg-flex align-items-center p-3 next-match">
 
               <div class="mr-auto order-md-1 w-60 text-center text-lg-left mb-3 mb-lg-0">
@@ -12,7 +14,6 @@
                 <div id="date-countdown"></div>
               </div>
 
-              {% set nextmatch = data.get("matches.yml").nextmatch %}
               <div class="ml-auto pr-4 order-md-2">
                 <div class="h5 text-black text-uppercase text-center text-lg-left">
                   <div class="d-block d-md-inline-block mb-3 mb-lg-0">
@@ -40,6 +41,7 @@
                 });
               </script>
             </div>
+            {% endif %}
 
             <div class="row">
               <div class="col-md-12">

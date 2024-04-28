@@ -1,20 +1,17 @@
 nextmatch:
-  hometeam: Rhos United
-  hometeamlogo: /images/teamlogos/rhosutd.png
-  awayteam: CPD Y Glannau
-  awayteamlogo: /images/teamlogos/yglannau.jpg
-  kickoff: 2024-04-27 14:30
 
 fixtures:
+
+results:
   -
     hometeam: Rhos United
     hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 1
     awayteam: CPD Y Glannau
     awayteamlogo: /images/teamlogos/yglannau.jpg
+    awayteamscore: 3
     date: 2024-04-27
     ground: Brookfield Drive
-
-results:
   -
     hometeam: Glan Conwy FC
     hometeamlogo: /images/teamlogos/glanconwy.jpg
