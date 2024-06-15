@@ -2,6 +2,9 @@
 
 {% block body %}
 
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v20.0&appId=2626060444232544" nonce="AVeaobgL"></script>
+
         <div class="site-blocks-vs site-section bg-light">
           <div class="container">
 
@@ -78,34 +81,22 @@
           </div>
         </div>
 
-
         <div class="site-section block-13 bg-primary fixed overlay-primary bg-image" style="background-image: url('/images/brookfield_drone.jpg');"  data-stellar-background-ratio="0.5">
 
           <div class="container">
             <div class="row mb-5">
               <div class="col-md-12 text-center">
-                <h2 class="text-white">Latest News</h2>
+                <h2 class="text-white">Latest Socials</h2>
               </div>
             </div>
 
             <div class="row">
-                {% for news in published_newsitems | slice(0, 3) %}
-
-                      <div class="col-md-6 col-lg-4">
-                        <div class="post-entry bg-white">
-                          <div class="image">
-                            <img src="{{news.newsimage}}" alt="Image" class="img-fluid">
-                          </div>
-                          <div class="text p-4">
-                            <h2 class="h5 text-black"><a href="{{news.uri}}">{{news.title}}</a></h2>
-                            <span class="text-uppercase date d-block mb-3"><small>{{news.author}} &bullet; {{news.date|date("dd MMMM yyyy")}}</small></span>
-                            <p class="mb-3">{{news.headersubtitle}}</p>
-                            <p><a href="{{news.uri}}" class="btn btn-primary btn-sm px-4 py-2 rounded-0">Read More</a></p>
-                          </div>
-                        </div>
-                      </div>
-
-                {% endfor %}
+              <div class="col-md-6 col-lg-6">
+                <div class="fb-page" data-href="https://www.facebook.com/RhosUnitedFC/" data-tabs="timeline" data-width="600" data-height="600" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RhosUnitedFC/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RhosUnitedFC/">Rhos United Football Club</a></blockquote></div>
+              </div>
+              <div class="col-md-6 col-lg-6">
+                <a class="twitter-timeline" data-width="600" data-height="600" href="https://twitter.com/RhosUnited?ref_src=twsrc%5Etfw">Tweets by RhosUnited</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              </div>
             </div>
           </div>
 
