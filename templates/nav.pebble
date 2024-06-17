@@ -55,6 +55,9 @@
                 <li><a href="/club/calendar.html">Calendar</a></li>
               </ul>
             </li>
+            <li>
+                <a href="https://swaz.co.uk/club/rhos-united-football-club/">Shop</a>
+            </li>
             {% if content.activemenu == "contact" %}<li class="active">{% else %}<li>{% endif %}
                 <a href="/contact.html">Contact</a>
             </li>
