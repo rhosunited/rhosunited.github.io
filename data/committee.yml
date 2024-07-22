@@ -10,13 +10,10 @@ committee:
     photo: /images/logo.png
     email: secretary@rhosunited.co.uk
   -
-    name: John Peace
+    name: Jonathan Bullock
     role: Treasurer
     photo: /images/logo.png
-  -
-    name: Ray Lee
-    role: Treasurer - Seniors
-    photo: /images/logo.png
+		email: treasurer@rhosunited.co.uk
   -
     name: Gavin Thomas / David Ashworth
     role: Safeguarding Officers
