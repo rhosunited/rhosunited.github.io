@@ -1,0 +1,100 @@
+results:
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 1
+    awayteam: CPD Y Glannau
+    awayteamlogo: /images/teamlogos/2324/yglannau.jpg
+    awayteamscore: 3
+    date: 2024-04-27
+    ground: Brookfield Drive
+  -
+    hometeam: Glan Conwy FC
+    hometeamlogo: /images/teamlogos/2324/glanconwy.jpg
+    hometeamscore: 3
+    awayteam: Rhos United
+    awayteamlogo: /images/teamlogos/rhosutd.png
+    awayteamscore: 2
+    date: 2024-04-13
+    ground: Cae Ffwt
+  -
+    hometeam: Llysfaen FC
+    hometeamlogo: /images/teamlogos/2324/llysfaen.jpg
+    hometeamscore: 4
+    awayteam: Rhos United
+    awayteamlogo: /images/teamlogos/rhosutd.png
+    awayteamscore: 2
+    date: 2024-04-06
+    ground: OPS Wind Arena
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 1
+    awayteam: Bow FC
+    awayteamlogo: /images/teamlogos/2324/bow.jpg
+    awayteamscore: 2
+    date: 2024-03-16
+    ground: OPS Wind Arena
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 2
+    awayteam: CPD Henllan FC
+    awayteamlogo: /images/teamlogos/2324/henllan.jpg
+    awayteamscore: 1
+    date: 2024-03-02
+    ground: OPS Wind Arena
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 2
+    awayteam: Prestatyn Wanderers AFC
+    awayteamlogo: /images/teamlogos/2324/prestatyn.jpg
+    awayteamscore: 0
+    date: 2024-02-24
+    ground: John Bright Leisure Centre
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 2
+    awayteam: Llysfaen FC
+    awayteamlogo: /images/teamlogos/2324/llysfaen.jpg
+    awayteamscore: 0
+    date: 2024-02-03
+    ground: The Flyover
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 1
+    awayteam: Rhyl Allstars
+    awayteamlogo: /images/teamlogos/2324/rhyl.jpg
+    awayteamscore: 2
+    date: 2024-01-26
+    ground: OPS Wind Arena
+  -
+    hometeam: Prestatyn Wanderers AFC
+    hometeamlogo: /images/teamlogos/2324/prestatyn.jpg
+    hometeamscore: 1
+    awayteam: Rhos United
+    awayteamlogo: /images/teamlogos/rhosutd.png
+    awayteamscore: 4
+    date: 2024-01-20
+    ground: Rhyl Leisure Arena
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/teamlogos/rhosutd.png
+    hometeamscore: 1
+    awayteam: Llandudno Amateurs
+    awayteamlogo: /images/teamlogos/2324/llandudno.jpg
+    awayteamscore: 6
+    date: 2024-01-13
+    ground: OPS Wind Arena
+  -
+    hometeam: Betws-y-Coed AFC
+    hometeamlogo: /images/teamlogos/2324/betws.jpg
+    hometeamscore: 2
+    awayteam: Rhos United
+    awayteamlogo: /images/teamlogos/rhosutd.png
+    awayteamscore: 3
+    date: 2024-01-06
+    ground: OPS Wind Arena

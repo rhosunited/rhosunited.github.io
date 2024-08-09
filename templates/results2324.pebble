@@ -1,0 +1,6 @@
+
+{% for game in data.get("matches2324.yml").results %}
+
+    {% include "base-match.pebble" %}
+
+{% endfor %}
