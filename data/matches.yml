@@ -1,19 +1,11 @@
 nextmatch:
-  hometeam: Blue Bridge FC
-  hometeamlogo: /images/teamlogos/2425/bluebridge.png
+  hometeam: Penrhyn Bay FC
+  hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  kickoff: 2024-08-10 14:30
+  kickoff: 2024-08-0 18:30
 
 fixtures:
-  -
-    hometeam: Blue Bridge FC
-    hometeamlogo: /images/teamlogos/2425/bluebridge.png
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2024-08-10
-    ground: Coronation Gardens
-    competition: North Wales Coast East League - Div 1
   -
     hometeam: Penrhyn Bay FC
     hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
@@ -49,6 +41,17 @@ fixtures:
 
 
 results:
+  -
+    hometeam: Blue Bridge FC
+    hometeamlogo: /images/teamlogos/2425/bluebridge.png
+    hometeamscore: 0
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: 9
+    date: 2024-08-10
+    ground: Coronation Gardens
+    competition: North Wales Coast East League - Div 1
+
   -
     hometeam: Rhos United
     hometeamlogo: /images/teamlogos/rhosutd.png
