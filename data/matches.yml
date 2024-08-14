@@ -1,19 +1,11 @@
 nextmatch:
-  hometeam: Penrhyn Bay FC
-  hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
-  awayteam: Rhos United
-  awayteamlogo: /images/logo.png
-  kickoff: 2024-08-13 18:30
+  hometeam: Rhos United
+  hometeamlogo: /images/logo.png
+  awayteam: CPD Henllan FC - Mens
+  awayteamlogo: /images/teamlogos/2425/henllan.jpg
+  kickoff: 2024-08-17 14:30
 
 fixtures:
-  -
-    hometeam: Penrhyn Bay FC
-    hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2024-08-13
-    ground: The Oval
-    competition: North Wales Coast East League - Div 1
   -
     hometeam: Rhos United
     hometeamlogo: /images/logo.png
@@ -39,8 +31,18 @@ fixtures:
     ground: Betws Yn Rhos
     competition: North Wales Coast East League - Div 1
 
-
 results:
+  -
+    hometeam: Penrhyn Bay FC
+    hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
+    hometeamscore: 0
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: 3
+    date: 2024-08-13
+    ground: The Oval
+    competition: North Wales Coast East League - Div 1
+
   -
     hometeam: Blue Bridge FC
     hometeamlogo: /images/teamlogos/2425/bluebridge.png
