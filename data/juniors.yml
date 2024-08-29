@@ -1,49 +1,49 @@
 teams:
   -
-    name: Under 12s
+    name: Under 13s
     photo: /images/under12s.jpg
     photolocation: left
-    about: The Rhos United Under 12s team is coached by Andrew and Ross and train on Tuesdays and Fridays. They play matches on Saturdays.
-    sponsor:
+    about: The Rhos United Under 13s team is coached by Hector and Howard and train on Tuesdays and Fridays. They play matches on Saturdays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">The Saddlery</a>.
   -
-    name: Under 11s - Red Devils
+    name: Under 12s
     photo: /images/under11s_reddevils.jpg
     photolocation: right
-    about: The Red Devils are coached by Gavin and Danny and train on Tuesdays and Thursdays. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 12s team is coached by Gavin and Danny and train on Tuesdays and Thursdays. They play matches on Saturdays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">The Cross Keys Inn Penrhynside and Fleetsmart</a>.
   -
-    name: Under 11s - Rovers
+    name: Under 12s - Rovers
     photo: /images/under11s_rovers_2024-04.jpeg
     photolocation: right
-    about: The Rovers are coached by Chris and train on Wednesdays. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 12s - Rovers team is coached by Chris and Natalie and train on Wednesdays. They play matches on Saturdays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">EcoRender</a>.
   -
-    name: Under 11s - Red Stars
+    name: Under 12s - Athletic
     photo: /images/under11s_redstars.jpg
     photolocation: right
-    about: The Red Stars are coached by Steph and Neil and train on Tuesdays and Thursdays. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 12s - Athletic team is coached by Steve and train on Wednesdays. They play matches on Saturdays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">Fleetsmart and The Cross Keys Inn Penrhynside</a>.
   -
-    name: Under 10s - Rapids
+    name: Under 11s - Rapids
     photo: /images/under10s_rapids.jpg
     photolocation: left
-    about: The Rhos United Under 10s - Rapids team is coached by James, Dan and Graham and train on Tuesdays and Thursday. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 11s - Rapids team is coached by James, Dan and Graham and train on Tuesdays and Thursday. They play matches on Sundays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">Commercial Funding @ 75point3 and Hogan Waste</a>.
   -
-    name: Under 9s - Raptors
+    name: Under 10s - Raptors
     photo: /images/under9s_raptors.jpg
     photolocation: right
-    about: The Rhos United Under 9s - Raptors team is coached by Jon, Leigh and Tony and train on Tuesdays and Thursday. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 10s - Raptors team is coached by Jon, Leigh, Tony and Al and train on Tuesdays and Thursday. They play matches on Sundays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">Cars Of Conwy</a>.
   -
-    name: Under 9s - Rockets
+    name: Under 10s - Rockets
     photo: /images/under9s_rockets.jpeg
     photolocation: right
-    about: The Rhos United Under 9s - Rockets team is coached by Natalie and Jon and train on Tuesdays and Thursday. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 10s - Rockets team is coached by Natalie and Jon and train on Tuesdays and Thursday. They play matches on Sundays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">Cars Of Conwy</a>.
   -
-    name: Under 7s - Rangers
+    name: Under 8s - Rangers
     photo: /images/under7s.jpeg
     photolocation: left
-    about: The Rhos United Under 7s team is coached by Craig and train on Mondays and Fridays. They play matches on Sundays.
-    sponsor:
+    about: The Rhos United Under 8s - Rangers team is coached by Craig and Dan and train on Mondays and Fridays. They play matches on Sundays.
+    sponsor: Team is sponsored by <a href="/club/sponsors.html">Hirst Flooring Solutions</a>.
