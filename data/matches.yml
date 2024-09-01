@@ -1,19 +1,11 @@
 nextmatch:
-  hometeam: Rhos United
-  hometeamlogo: /images/logo.png
-  awayteam: Llandudno Swifts FC
-  awayteamlogo: /images/teamlogos/2425/llandudno.jpg
-  kickoff: 2024-08-31 14:30
+  hometeam: Llysfaen FC
+  hometeamlogo: /images/teamlogos/2425/llysfaen.png
+  awayteam: Rhos United
+  awayteamlogo: /images/logo.png
+  kickoff: 2024-09-07 14:30
 
 fixtures:
-  -
-    hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: Llandudno Swifts FC
-    awayteamlogo: /images/teamlogos/2425/llandudno.jpg
-    date: 2024-08-31
-    ground: Betws Yn Rhos
-    competition: North Wales Coast East League - Div 1
   -
     hometeam: Llysfaen FC
     hometeamlogo: /images/teamlogos/2425/llysfaen.png
@@ -22,8 +14,26 @@ fixtures:
     date: 2024-09-07
     ground: The Bananabeu
     competition: North Wales Coast East League - Div 1
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Prestatyn Sports FC
+    awayteamlogo: /images/teamlogos/2425/prestatynsports.jpg
+    date: 2024-09-21
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East League - Div 1
 
 results:
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: 3
+    awayteam: Llandudno Swifts FC
+    awayteamlogo: /images/teamlogos/2425/llandudno.jpg
+    awayteamscore: 2
+    date: 2024-08-31
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East League - Div 1
   -
     hometeam: Rhos United
     hometeamlogo: /images/logo.png
