@@ -1,19 +1,11 @@
 nextmatch:
   hometeam: Rhos United
   hometeamlogo: /images/logo.png
-  awayteam: C P D Cefni FC
-  awayteamlogo: /images/generic_ball.png
-  kickoff: 2024-09-14 13:30
+  awayteam: Prestatyn Sports FC
+  awayteamlogo: /images/teamlogos/2425/prestatynsports.jpg
+  kickoff: 2024-09-21 14:30
 
 fixtures:
-  -
-    hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: C P D Cefni FC
-    awayteamlogo: /images/generic_ball.png
-    date: 2024-09-14
-    ground: Bastion Gardens
-    competition: NWCFA Junior Challenge Cup
   -
     hometeam: Rhos United
     hometeamlogo: /images/logo.png
@@ -24,6 +16,16 @@ fixtures:
     competition: North Wales Coast East League - Div 1
 
 results:
+  -
+    hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: 5
+    awayteam: C P D Cefni FC
+    awayteamlogo: /images/generic_ball.png
+    awayteamscore: 3
+    date: 2024-09-14
+    ground: Bastion Gardens
+    competition: NWCFA Junior Challenge Cup
   -
     hometeam: Llysfaen FC
     hometeamlogo: /images/teamlogos/2425/llysfaen.png
