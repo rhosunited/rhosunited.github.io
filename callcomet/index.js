@@ -27,7 +27,7 @@ fetch(endpoint)
             table: table_teams
         }
         // console.log("table: ", table);
-        yaml.sync('table.yaml', table);
+        yaml.sync('../data/table.yaml', table);
     })
     .catch(err => {
         console.error(err);
