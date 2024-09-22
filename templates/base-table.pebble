@@ -1,0 +1,45 @@
+    <div class="row bg-white align-items-center ml-0 mr-0 py-1 match-entry">
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h6">{{tableteam.position}}</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-4 col-lg-5 mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h5">{{tableteam.team}}</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h6">{{tableteam.played}}</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h6">{{tableteam.wins}}</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h6">{{tableteam.draws}}</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h6">{{tableteam.losses}}</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h4">{{tableteam.points}}</span></div>
+          </div>
+        </div>
+
+    </div>

@@ -1,0 +1,51 @@
+    <div class="row bg-black align-items-center ml-0 mr-0 py-1 match-entry">
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5"></span></div>
+          </div>
+        </div>
+
+        <div class="col-md-4 col-lg-5 mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5">TEAM</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5">P</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5">W</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5">D</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5">L</span></div>
+          </div>
+        </div>
+
+        <div class="col-md-1 col-lg-1 text-center mb-4 mb-lg-0">
+          <div class="d-inline-block">
+            <div class="py-1 px-1 mb-1 text-white d-inline-block rounded"><span class="h5">POINTS</span></div>
+          </div>
+        </div>
+
+    </div>
+
+{% for tableteam in data.get("table.yml").table %}
+
+    {% include "base-table.pebble" %}
+
+{% endfor %}
