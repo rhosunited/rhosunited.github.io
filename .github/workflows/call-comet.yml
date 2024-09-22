@@ -1,0 +1,38 @@
+name: Call COMET API
+
+on:
+  schedule:
+    - cron: "0 1 * * MON"
+
+jobs:
+  call-comet:
+    runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_MESSAGE: Updates from COMET API
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.17.0'
+
+      - name: Install npm deps
+        working-directory: ./callcomet
+        run: npm ci
+
+      - name: Call API
+        working-directory: ./callcomet
+        env:
+          API_CALL: ${{ secrets.API_CALL }}
+        run: node index.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ${{ env.CI_COMMIT_MESSAGE }}
