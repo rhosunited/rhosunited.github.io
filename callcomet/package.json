@@ -2,7 +2,7 @@
   "name": "callcomet",
   "version": "1.0.0",
   "description": "Consume the COMET API",
-  "main": "index.js",
+  "main": "table.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cross-fetch": "^4.0.0",
+    "moment": "^2.30.1",
     "write-yaml": "^1.0.0"
   }
 }
