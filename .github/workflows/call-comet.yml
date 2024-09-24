@@ -2,7 +2,7 @@ name: Call COMET API
 
 on:
   schedule:
-    - cron: "0 1 * * MON"
+    - cron: "0 1 * * MON,WED,FRI"
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       CI_COMMIT_MESSAGE: Updates from COMET API
+      TABLE_API_CALL: ${{ secrets.TABLE_API_CALL }}
+      MATCHES_API_CALL: ${{ secrets.MATCHES_API_CALL }}
 
     permissions:
       contents: write
@@ -27,11 +29,13 @@ jobs:
         working-directory: ./callcomet
         run: npm ci
 
-      - name: Call API
+      - name: Call API - table info
         working-directory: ./callcomet
-        env:
-          API_CALL: ${{ secrets.API_CALL }}
-        run: node index.js
+        run: node table.js
+
+      - name: Call API - match info
+        working-directory: ./callcomet
+        run: node matches.js
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -1,6 +1,6 @@
 const fetch = require('cross-fetch');
 const yaml = require('write-yaml');
-const endpoint = process.env.API_CALL;
+const endpoint = process.env.TABLE_API_CALL;
 
 fetch(endpoint)
     .then(res => {
