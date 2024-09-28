@@ -12,7 +12,7 @@ fetch(endpoint)
     .then(results => {
         let teams = results.results;
         // console.log(teams);
-        var table_teams = teams.map(team => {
+        var table = teams.map(team => {
             return {
                 position: team.position,
                 team: team.club,
@@ -23,11 +23,12 @@ fetch(endpoint)
                 losses: team.losses
             };
         });
-        var table = {
-            table: table_teams
+        var output = {
+            table: table
         }
         // console.log("table: ", table);
-        yaml.sync('../data/table.yml', table);
+        console.log('Table = ', table.length);
+        yaml.sync('../data/table.yml', output);
     })
     .catch(err => {
         console.error(err);
