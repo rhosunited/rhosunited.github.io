@@ -8,7 +8,10 @@
 
         <div class="col-md-4 col-lg-5 mb-4 mb-lg-0">
           <div class="d-inline-block">
-            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded"><span class="h5">{{tableteam.team}}</span></div>
+            <div class="py-1 px-1 mb-1 text-black d-inline-block rounded">
+              <img src="{{ tableteam.logo }}" alt="Image" class="mr-3 image image-small">
+              <span class="h5">{{tableteam.team}}</span>
+            </div>
           </div>
         </div>
 
