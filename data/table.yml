@@ -8,57 +8,57 @@ table:
     losses: 0
   - position: 2
     team: Llandudno Swifts FC
-    points: 13
-    played: 6
-    wins: 4
+    points: 16
+    played: 7
+    wins: 5
     draws: 1
     losses: 1
   - position: 3
-    team: Llysfaen FC
-    points: 10
-    played: 5
-    wins: 3
-    draws: 1
-    losses: 1
-  - position: 4
     team: Prestatyn Sports FC
+    points: 13
+    played: 7
+    wins: 4
+    draws: 1
+    losses: 2
+  - position: 4
+    team: CPD Henllan FC - Mens
+    points: 12
+    played: 6
+    wins: 4
+    draws: 0
+    losses: 2
+  - position: 5
+    team: Llysfaen FC
     points: 10
     played: 6
     wins: 3
     draws: 1
-    losses: 2
-  - position: 5
-    team: CPD Henllan FC - Mens
-    points: 9
-    played: 5
-    wins: 3
-    draws: 0
     losses: 2
   - position: 6
     team: Rhyl Albion
-    points: 6
-    played: 4
+    points: 7
+    played: 5
     wins: 2
-    draws: 0
+    draws: 1
     losses: 2
   - position: 7
-    team: Prestatyn Wanderers AFC
-    points: 3
-    played: 5
+    team: Penrhyn Bay FC
+    points: 4
+    played: 6
     wins: 1
-    draws: 0
+    draws: 1
     losses: 4
   - position: 8
-    team: Penrhyn Bay FC
+    team: Prestatyn Wanderers AFC
     points: 3
-    played: 5
+    played: 6
     wins: 1
     draws: 0
-    losses: 4
+    losses: 5
   - position: 9
     team: Blue Bridge FC
     points: 0
-    played: 6
+    played: 7
     wins: 0
     draws: 0
-    losses: 6
+    losses: 7
