@@ -1,5 +1,6 @@
 const fetch = require('cross-fetch');
 const yaml = require('write-yaml');
+const common = require('./common');
 const endpoint = process.env.TABLE_API_CALL;
 
 fetch(endpoint)
@@ -15,6 +16,7 @@ fetch(endpoint)
         var table = teams.map(team => {
             return {
                 position: team.position,
+                logo: common.lookupBadge(team.clubId),
                 team: team.club,
                 points: team.points,
                 played: team.matches,
