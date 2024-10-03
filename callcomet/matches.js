@@ -41,10 +41,18 @@ fetch(endpoint)
         srcMatches.forEach(match => {
             // results
             if (match.liveStatus == 'FULL_TIME') {
-                let teams = match.matchDescription.split('-');
-                let scoreRegex = /\d+:\d+/
-                let hometeam = teams[0];
-                let awayteam = teams[1].replace(scoreRegex, '');
+                let scoreRegex = /\d+:\d+/;
+                let hometeam = "";
+                let awayteam = "";
+                if (match.homeTeam == 31573) {
+                    let teams = match.matchDescription.split('Rhos United');
+                    hometeam = "Rhos United";
+                    awayteam = teams[1].replace(scoreRegex, '').substring(2).trim();
+                } else if (match.awayTeam == 31573) {
+                    let teams = match.matchDescription.split('Rhos United');
+                    hometeam = teams[0].substring(0, teams[0].length-2).trim();
+                    awayteam = "Rhos United";
+                }
                 let score = match.matchDescription.match(scoreRegex);
                 let homescore = score[0].split(':')[0];
                 let awayscore = score[0].split(':')[1];
@@ -54,12 +62,12 @@ fetch(endpoint)
                     ground = "Betws Yn Rhos";
                 }
                 let competition = match.name;
-                // console.log(`RESULT: ${hometeam} ${homescore}-${awayscore} ${awayteam} - ${matchDate} - ${ground} - ${competition}`);
+                // console.log(`RESULT: [${hometeam}] ${homescore}-${awayscore} [${awayteam}] - ${matchDate} - ${ground} - ${competition}`);
                 let matchDetails = {
-                    hometeam: hometeam.trim(),
+                    hometeam: hometeam,
                     hometeamlogo: common.lookupBadge(match.homeTeam),
                     hometeamscore: homescore,
-                    awayteam: awayteam.trim(),
+                    awayteam: awayteam,
                     awayteamlogo: common.lookupBadge(match.awayTeam),
                     awayteamscore: awayscore,
                     date: matchDate,
