@@ -116,7 +116,7 @@ fetch(endpoint)
             }
         });
         fixtures.sort(sortAsc);
-        let nextMatch = { ...fixtures[0], kickoff: moment(fixtures[0].date).format("yyyy-MM-DD hh:mm") };
+        let nextMatch = { ...fixtures[0], kickoff: moment(fixtures[0].date).format("yyyy-MM-DD HH:mm") };
 
         matchResults.sort(sortDesc);
         var output = {
