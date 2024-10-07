@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Rhos United
-  hometeamlogo: /images/logo.png
-  awayteam: Penrhyn Bay FC
-  awayteamlogo: /images/teamlogos/2425/penrhynbay.jpg
-  date: 2024-10-05T13:00:00.000Z
-  ground: Betws Yn Rhos
-  competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2024-10-05 13:00'
+  hometeam: Llanfairpwll FC
+  hometeamlogo: /images/generic_ball.png
+  awayteam: Rhos United
+  awayteamlogo: /images/logo.png
+  date: 2024-10-19T12:30:00.000Z
+  ground: TBC
+  competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
+  kickoff: '2024-10-19 12:30'
 fixtures:
-  - hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: Penrhyn Bay FC
-    awayteamlogo: /images/teamlogos/2425/penrhynbay.jpg
-    date: 2024-10-05T13:00:00.000Z
-    ground: Betws Yn Rhos
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Llanfairpwll FC
     hometeamlogo: /images/generic_ball.png
     awayteam: Rhos United
@@ -30,6 +23,15 @@ fixtures:
     ground: Top Park
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: '6'
+    awayteam: Penrhyn Bay FC
+    awayteamlogo: /images/teamlogos/2425/penrhynbay.jpg
+    awayteamscore: '0'
+    date: 2024-10-05T13:00:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
     hometeamscore: '7'
