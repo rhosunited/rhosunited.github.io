@@ -40,7 +40,7 @@ fetch(endpoint)
         // // console.log(teams);
         srcMatches.forEach(match => {
             // results
-            if (match.liveStatus == 'FULL_TIME') {
+            if ((match.matchStatus == 'PLAYED' || match.matchStatus == 'SCHEDULED') && match.liveStatus == 'FULL_TIME') {
                 let scoreRegex = /\d+:\d+/;
                 let hometeam = "";
                 let awayteam = "";
@@ -75,44 +75,43 @@ fetch(endpoint)
                     competition: competition
                 }
                 matchResults.push(matchDetails);
-            } else {
-                // upcoming fixtures
-                if (match.matchDate > 0) {
-                    let hometeam = "";
-                    let awayteam = "";
-                    if (match.homeTeam == 31573) {
-                        let teams = match.matchDescription.split('Rhos United');
-                        hometeam = "Rhos United";
-                        awayteam = teams[1].replace('-:-', '').substring(2).trim();
-                        // console.log(match.matchDescription.split('Rhos United'));
-                    } else if (match.awayTeam == 31573) {
-                        let teams = match.matchDescription.split('Rhos United');
-                        hometeam = teams[0].substring(0, teams[0].length-2).trim();
-                        awayteam = "Rhos United";
-                        // console.log(match.matchDescription.split('Rhos United'));
-                    }
-                    let matchDate = moment(match.matchDate).toDate();
-                    let ground = match.facility;
-                    if (ground.includes("Betws Yn Rhos")) {
-                        ground = "Betws Yn Rhos";
-                    }
-                    if (ground === '') {
-                        ground = "TBC";
-                    }
-                    let competition = match.name;
-                    // console.log(`FIXTURE: [${hometeam}] v [${awayteam}] - ${matchDate} - ${ground} - ${competition}`);
-                    let fixture = {
-                        hometeam: hometeam,
-                        hometeamlogo: common.lookupBadge(match.homeTeam),
-                        awayteam: awayteam,
-                        awayteamlogo: common.lookupBadge(match.awayTeam),
-                        date: matchDate,
-                        ground: ground,
-                        competition: competition
-                    }
-                    // console.log(fixture);
-                    fixtures.push(fixture);
+            }
+            // upcoming fixtures
+            if (match.matchStatus == 'SCHEDULED' && match.matchDate > 0 && match.liveStatus == '') {
+                let hometeam = "";
+                let awayteam = "";
+                if (match.homeTeam == 31573) {
+                    let teams = match.matchDescription.split('Rhos United');
+                    hometeam = "Rhos United";
+                    awayteam = teams[1].replace('-:-', '').substring(2).trim();
+                    // console.log(match.matchDescription.split('Rhos United'));
+                } else if (match.awayTeam == 31573) {
+                    let teams = match.matchDescription.split('Rhos United');
+                    hometeam = teams[0].substring(0, teams[0].length-2).trim();
+                    awayteam = "Rhos United";
+                    // console.log(match.matchDescription.split('Rhos United'));
                 }
+                let matchDate = moment(match.matchDate).toDate();
+                let ground = match.facility;
+                if (ground.includes("Betws Yn Rhos")) {
+                    ground = "Betws Yn Rhos";
+                }
+                if (ground === '') {
+                    ground = "TBC";
+                }
+                let competition = match.name;
+                // console.log(`FIXTURE: [${hometeam}] v [${awayteam}] - ${matchDate} - ${ground} - ${competition}`);
+                let fixture = {
+                    hometeam: hometeam,
+                    hometeamlogo: common.lookupBadge(match.homeTeam),
+                    awayteam: awayteam,
+                    awayteamlogo: common.lookupBadge(match.awayTeam),
+                    date: matchDate,
+                    ground: ground,
+                    competition: competition
+                }
+                // console.log(fixture);
+                fixtures.push(fixture);
             }
         });
         fixtures.sort(sortAsc);
