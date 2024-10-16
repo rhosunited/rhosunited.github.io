@@ -15,13 +15,6 @@ fixtures:
     date: 2024-10-19T12:30:00.000Z
     ground: TBC
     competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
-  - hometeam: CPD Henllan FC - Mens
-    hometeamlogo: /images/teamlogos/2425/henllan.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2024-10-26T13:00:00.000Z
-    ground: Top Park
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Prestatyn Wanderers AFC
     hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
     awayteam: Rhos United
