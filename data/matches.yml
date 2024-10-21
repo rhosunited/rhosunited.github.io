@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Llanfairpwll FC
-  hometeamlogo: /images/generic_ball.png
+  hometeam: Prestatyn Wanderers AFC
+  hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2024-10-19T12:30:00.000Z
-  ground: TBC
-  competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
-  kickoff: '2024-10-19 12:30'
+  date: 2024-10-26T13:00:00.000Z
+  ground: Ffordd Las Community Centre
+  competition: North Wales Coast East Football League 24/25 - Division 1
+  kickoff: '2024-10-26 13:00'
 fixtures:
-  - hometeam: Llanfairpwll FC
-    hometeamlogo: /images/generic_ball.png
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2024-10-19T12:30:00.000Z
-    ground: TBC
-    competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
   - hometeam: Prestatyn Wanderers AFC
     hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
     awayteam: Rhos United

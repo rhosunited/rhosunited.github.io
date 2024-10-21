@@ -42,9 +42,9 @@ table:
   - position: 6
     logo: /images/teamlogos/2425/rhylalbion.jpg
     team: Rhyl Albion
-    points: 10
-    played: 7
-    wins: 3
+    points: 13
+    played: 8
+    wins: 4
     draws: 1
     losses: 3
   - position: 7
@@ -67,7 +67,7 @@ table:
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC
     points: 0
-    played: 8
+    played: 9
     wins: 0
     draws: 0
-    losses: 8
+    losses: 9
