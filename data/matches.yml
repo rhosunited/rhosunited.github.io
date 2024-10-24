@@ -1,19 +1,40 @@
 nextmatch:
-  hometeam: Prestatyn Wanderers AFC
-  hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
+  hometeam: Llanfairpwll FC
+  hometeamlogo: /images/generic_ball.png
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2024-10-26T13:00:00.000Z
-  ground: Ffordd Las Community Centre
-  competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2024-10-26 13:00'
+  date: 2024-10-26T12:30:00.000Z
+  ground: Maes Eilian
+  competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
+  kickoff: '2024-10-26 12:30'
 fixtures:
-  - hometeam: Prestatyn Wanderers AFC
-    hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
+  - hometeam: Llanfairpwll FC
+    hometeamlogo: /images/generic_ball.png
     awayteam: Rhos United
     awayteamlogo: /images/logo.png
-    date: 2024-10-26T13:00:00.000Z
-    ground: Ffordd Las Community Centre
+    date: 2024-10-26T12:30:00.000Z
+    ground: Maes Eilian
+    competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Blue Bridge FC
+    awayteamlogo: /images/teamlogos/2425/bluebridge.png
+    date: 2024-11-02T14:00:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Llysfaen FC
+    awayteamlogo: /images/teamlogos/2425/llysfaen.png
+    date: 2024-11-16T14:00:00.000Z
+    ground: TBC
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhyl Albion
+    hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2024-11-30T14:00:00.000Z
+    ground: Glan Clwyd Sports Centre
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
   - hometeam: Rhos United
