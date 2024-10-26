@@ -1,5 +1,21 @@
 table:
   - position: 1
+    logo: /images/teamlogos/2425/prestatynsports.jpg
+    team: Prestatyn Sports FC
+    points: 22
+    played: 10
+    wins: 7
+    draws: 1
+    losses: 2
+  - position: 2
+    logo: /images/teamlogos/2425/llandudno.jpg
+    team: Llandudno Swifts FC
+    points: 22
+    played: 10
+    wins: 7
+    draws: 1
+    losses: 2
+  - position: 3
     logo: /images/logo.png
     team: Rhos United
     points: 19
@@ -7,23 +23,15 @@ table:
     wins: 6
     draws: 1
     losses: 0
-  - position: 2
-    logo: /images/teamlogos/2425/llandudno.jpg
-    team: Llandudno Swifts FC
-    points: 19
-    played: 9
-    wins: 6
-    draws: 1
-    losses: 2
-  - position: 3
-    logo: /images/teamlogos/2425/prestatynsports.jpg
-    team: Prestatyn Sports FC
-    points: 19
-    played: 9
-    wins: 6
-    draws: 1
-    losses: 2
   - position: 4
+    logo: /images/teamlogos/2425/llysfaen.png
+    team: Llysfaen FC
+    points: 16
+    played: 9
+    wins: 5
+    draws: 1
+    losses: 3
+  - position: 5
     logo: /images/teamlogos/2425/henllan.jpg
     team: CPD Henllan FC - Mens
     points: 15
@@ -31,30 +39,22 @@ table:
     wins: 5
     draws: 0
     losses: 3
-  - position: 5
-    logo: /images/teamlogos/2425/llysfaen.png
-    team: Llysfaen FC
-    points: 13
-    played: 8
-    wins: 4
-    draws: 1
-    losses: 3
   - position: 6
     logo: /images/teamlogos/2425/rhylalbion.jpg
     team: Rhyl Albion
     points: 13
-    played: 8
+    played: 9
     wins: 4
     draws: 1
-    losses: 3
+    losses: 4
   - position: 7
     logo: /images/teamlogos/2425/penrhynbay.jpg
     team: Penrhyn Bay FC
     points: 7
-    played: 8
+    played: 9
     wins: 2
     draws: 1
-    losses: 5
+    losses: 6
   - position: 8
     logo: /images/teamlogos/2425/prestatynwanderers.png
     team: Prestatyn Wanderers AFC
@@ -67,7 +67,7 @@ table:
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC
     points: 0
-    played: 9
+    played: 10
     wins: 0
     draws: 0
-    losses: 9
+    losses: 10
