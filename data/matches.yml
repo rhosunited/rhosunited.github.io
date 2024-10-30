@@ -17,6 +17,13 @@ fixtures:
     competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
+    awayteam: Caergybi FC
+    awayteamlogo: /images/generic_ball.png
+    date: 2024-11-09T13:30:00.000Z
+    ground: TBC
+    competition: NWCFA Mabon Scaffolding Junior Challenge Cup - 24/25
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
     awayteam: Llysfaen FC
     awayteamlogo: /images/teamlogos/2425/llysfaen.png
     date: 2024-11-16T14:00:00.000Z
