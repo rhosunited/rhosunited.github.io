@@ -4,7 +4,7 @@ nextmatch:
   awayteam: Blue Bridge FC
   awayteamlogo: /images/teamlogos/2425/bluebridge.png
   date: 2024-11-02T14:00:00.000Z
-  ground: Betws Yn Rhos
+  ground: Brookfield Drive
   competition: North Wales Coast East Football League 24/25 - Division 1
   kickoff: '2024-11-02 14:00'
 fixtures:
@@ -13,7 +13,7 @@ fixtures:
     awayteam: Blue Bridge FC
     awayteamlogo: /images/teamlogos/2425/bluebridge.png
     date: 2024-11-02T14:00:00.000Z
-    ground: Betws Yn Rhos
+    ground: Brookfield Drive
     competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
