@@ -1,29 +1,37 @@
 table:
   - position: 1
-    logo: /images/teamlogos/2425/prestatynsports.jpg
-    team: Prestatyn Sports FC
-    points: 25
-    played: 11
-    wins: 8
+    logo: /images/teamlogos/2425/llandudno.jpg
+    team: Llandudno Swifts FC
+    points: 28
+    played: 12
+    wins: 9
     draws: 1
     losses: 2
   - position: 2
-    logo: /images/teamlogos/2425/llandudno.jpg
-    team: Llandudno Swifts FC
-    points: 25
-    played: 11
-    wins: 8
-    draws: 1
-    losses: 2
-  - position: 3
     logo: /images/logo.png
     team: Rhos United
-    points: 22
-    played: 8
-    wins: 7
+    points: 25
+    played: 9
+    wins: 8
     draws: 1
     losses: 0
+  - position: 3
+    logo: /images/teamlogos/2425/prestatynsports.jpg
+    team: Prestatyn Sports FC
+    points: 25
+    played: 12
+    wins: 8
+    draws: 1
+    losses: 3
   - position: 4
+    logo: /images/teamlogos/2425/henllan.jpg
+    team: CPD Henllan FC - Mens
+    points: 21
+    played: 11
+    wins: 7
+    draws: 0
+    losses: 4
+  - position: 5
     logo: /images/teamlogos/2425/rhylalbion.jpg
     team: Rhyl Albion
     points: 19
@@ -31,30 +39,22 @@ table:
     wins: 6
     draws: 1
     losses: 4
-  - position: 5
-    logo: /images/teamlogos/2425/henllan.jpg
-    team: CPD Henllan FC - Mens
-    points: 18
-    played: 10
-    wins: 6
-    draws: 0
-    losses: 4
   - position: 6
     logo: /images/teamlogos/2425/llysfaen.png
     team: Llysfaen FC
     points: 16
-    played: 11
+    played: 12
     wins: 5
     draws: 1
-    losses: 5
+    losses: 6
   - position: 7
     logo: /images/teamlogos/2425/penrhynbay.jpg
     team: Penrhyn Bay FC
     points: 10
-    played: 11
+    played: 12
     wins: 3
     draws: 1
-    losses: 7
+    losses: 8
   - position: 8
     logo: /images/teamlogos/2425/prestatynwanderers.png
     team: Prestatyn Wanderers AFC

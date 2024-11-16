@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Rhos United
-  hometeamlogo: /images/logo.png
-  awayteam: Llysfaen FC
-  awayteamlogo: /images/teamlogos/2425/llysfaen.png
-  date: 2024-11-16T14:00:00.000Z
-  ground: Coleg Llandrillo
+  hometeam: CPD Henllan FC - Mens
+  hometeamlogo: /images/teamlogos/2425/henllan.jpg
+  awayteam: Rhos United
+  awayteamlogo: /images/logo.png
+  date: 2024-11-23T14:00:00.000Z
+  ground: Top Park
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2024-11-16 14:00'
+  kickoff: '2024-11-23 14:00'
 fixtures:
-  - hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: Llysfaen FC
-    awayteamlogo: /images/teamlogos/2425/llysfaen.png
-    date: 2024-11-16T14:00:00.000Z
-    ground: Coleg Llandrillo
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: CPD Henllan FC - Mens
     hometeamlogo: /images/teamlogos/2425/henllan.jpg
     awayteam: Rhos United
@@ -30,6 +23,15 @@ fixtures:
     ground: Glan Clwyd Sports Centre
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: '6'
+    awayteam: Llysfaen FC
+    awayteamlogo: /images/teamlogos/2425/llysfaen.png
+    awayteamscore: '0'
+    date: 2024-11-16T14:00:00.000Z
+    ground: Coleg Llandrillo
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
     hometeamscore: '1'
