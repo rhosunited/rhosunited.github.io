@@ -1,7 +1,12 @@
 committee:
   -
-    name: Gavin Thomas
+    name: James Healy
     role: Chairman
+    photo: /images/logo.png
+    email: chairman@rhosunited.co.uk
+  -
+    name: Jon Parry
+    role: Vice-Chairman
     photo: /images/logo.png
     email: chairman@rhosunited.co.uk
   -
@@ -24,16 +29,6 @@ committee:
     role: Head of Seniors
     photo: /images/logo.png
     email: seniors@rhosunited.co.uk
-  -
-    name: Gavin Thomas
-    role: Head of Juniors
-    photo: /images/logo.png
-    email: juniors@rhosunited.co.uk
-  -
-    name: Jon Parry
-    role: Head of Phase U7s-U11s
-    photo: /images/logo.png
-    email: juniors@rhosunited.co.uk
   -
     name: Bret Durkan
     role: Head of Social Media
