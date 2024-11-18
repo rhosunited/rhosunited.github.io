@@ -24,20 +24,20 @@ table:
     draws: 1
     losses: 3
   - position: 4
+    logo: /images/teamlogos/2425/rhylalbion.jpg
+    team: Rhyl Albion
+    points: 22
+    played: 12
+    wins: 7
+    draws: 1
+    losses: 4
+  - position: 5
     logo: /images/teamlogos/2425/henllan.jpg
     team: CPD Henllan FC - Mens
     points: 21
     played: 11
     wins: 7
     draws: 0
-    losses: 4
-  - position: 5
-    logo: /images/teamlogos/2425/rhylalbion.jpg
-    team: Rhyl Albion
-    points: 19
-    played: 11
-    wins: 6
-    draws: 1
     losses: 4
   - position: 6
     logo: /images/teamlogos/2425/llysfaen.png
@@ -59,10 +59,10 @@ table:
     logo: /images/teamlogos/2425/prestatynwanderers.png
     team: Prestatyn Wanderers AFC
     points: 3
-    played: 9
+    played: 10
     wins: 1
     draws: 0
-    losses: 8
+    losses: 9
   - position: 9
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC
