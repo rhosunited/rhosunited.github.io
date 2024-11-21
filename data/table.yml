@@ -7,6 +7,14 @@ table:
     wins: 9
     draws: 1
     losses: 2
+  - position: 1
+    logo: /images/logo.png
+    team: Rhos United
+    points: 28
+    played: 10
+    wins: 9
+    draws: 1
+    losses: 0
   - position: 2
     logo: /images/logo.png
     team: Rhos United
@@ -15,6 +23,22 @@ table:
     wins: 8
     draws: 1
     losses: 0
+  - position: 2
+    logo: /images/teamlogos/2425/llandudno.jpg
+    team: Llandudno Swifts FC
+    points: 28
+    played: 12
+    wins: 9
+    draws: 1
+    losses: 2
+  - position: 3
+    logo: /images/teamlogos/2425/prestatynsports.jpg
+    team: Prestatyn Sports FC
+    points: 25
+    played: 12
+    wins: 8
+    draws: 1
+    losses: 3
   - position: 3
     logo: /images/teamlogos/2425/prestatynsports.jpg
     team: Prestatyn Sports FC
@@ -30,6 +54,22 @@ table:
     played: 12
     wins: 7
     draws: 1
+    losses: 4
+  - position: 4
+    logo: /images/teamlogos/2425/rhylalbion.jpg
+    team: Rhyl Albion
+    points: 22
+    played: 12
+    wins: 7
+    draws: 1
+    losses: 4
+  - position: 5
+    logo: /images/teamlogos/2425/henllan.jpg
+    team: CPD Henllan FC - Mens
+    points: 21
+    played: 11
+    wins: 7
+    draws: 0
     losses: 4
   - position: 5
     logo: /images/teamlogos/2425/henllan.jpg
@@ -47,6 +87,14 @@ table:
     wins: 5
     draws: 1
     losses: 6
+  - position: 6
+    logo: /images/teamlogos/2425/llysfaen.png
+    team: Llysfaen FC
+    points: 16
+    played: 12
+    wins: 5
+    draws: 1
+    losses: 6
   - position: 7
     logo: /images/teamlogos/2425/penrhynbay.jpg
     team: Penrhyn Bay FC
@@ -55,6 +103,14 @@ table:
     wins: 3
     draws: 1
     losses: 8
+  - position: 7
+    logo: /images/teamlogos/2425/penrhynbay.jpg
+    team: Penrhyn Bay FC
+    points: 10
+    played: 13
+    wins: 3
+    draws: 1
+    losses: 9
   - position: 8
     logo: /images/teamlogos/2425/prestatynwanderers.png
     team: Prestatyn Wanderers AFC
@@ -63,6 +119,22 @@ table:
     wins: 1
     draws: 0
     losses: 9
+  - position: 8
+    logo: /images/teamlogos/2425/prestatynwanderers.png
+    team: Prestatyn Wanderers AFC
+    points: 3
+    played: 10
+    wins: 1
+    draws: 0
+    losses: 9
+  - position: 9
+    logo: /images/teamlogos/2425/bluebridge.png
+    team: Blue Bridge FC
+    points: 0
+    played: 12
+    wins: 0
+    draws: 0
+    losses: 12
   - position: 9
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC

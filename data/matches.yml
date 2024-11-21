@@ -1,26 +1,26 @@
 nextmatch:
-  hometeam: CPD Henllan FC - Mens
-  hometeamlogo: /images/teamlogos/2425/henllan.jpg
+  hometeam: Rhyl Albion
+  hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2024-11-23T14:00:00.000Z
-  ground: Top Park
+  date: 2024-11-30T14:00:00.000Z
+  ground: Glan Clwyd Sports Centre
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2024-11-23 14:00'
+  kickoff: '2024-11-30 14:00'
 fixtures:
-  - hometeam: CPD Henllan FC - Mens
-    hometeamlogo: /images/teamlogos/2425/henllan.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2024-11-23T14:00:00.000Z
-    ground: Top Park
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhyl Albion
     hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
     awayteam: Rhos United
     awayteamlogo: /images/logo.png
     date: 2024-11-30T14:00:00.000Z
     ground: Glan Clwyd Sports Centre
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Prestatyn Wanderers AFC
+    hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2024-12-07T14:00:00.000Z
+    ground: Ffordd Las Community Centre
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
   - hometeam: Rhos United
