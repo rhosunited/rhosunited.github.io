@@ -82,17 +82,17 @@ table:
   - position: 6
     logo: /images/teamlogos/2425/llysfaen.png
     team: Llysfaen FC
-    points: 16
-    played: 12
-    wins: 5
+    points: 19
+    played: 13
+    wins: 6
     draws: 1
     losses: 6
   - position: 6
     logo: /images/teamlogos/2425/llysfaen.png
     team: Llysfaen FC
-    points: 16
-    played: 12
-    wins: 5
+    points: 19
+    played: 13
+    wins: 6
     draws: 1
     losses: 6
   - position: 7
@@ -131,15 +131,15 @@ table:
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC
     points: 0
-    played: 12
+    played: 13
     wins: 0
     draws: 0
-    losses: 12
+    losses: 13
   - position: 9
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC
     points: 0
-    played: 12
+    played: 13
     wins: 0
     draws: 0
-    losses: 12
+    losses: 13
