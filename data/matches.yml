@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Rhyl Albion
-  hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
+  hometeam: Prestatyn Wanderers AFC
+  hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2024-11-30T14:00:00.000Z
-  ground: Glan Clwyd Sports Centre
+  date: 2024-12-07T14:00:00.000Z
+  ground: Ffordd Las Community Centre
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2024-11-30 14:00'
+  kickoff: '2024-12-07 14:00'
 fixtures:
-  - hometeam: Rhyl Albion
-    hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2024-11-30T14:00:00.000Z
-    ground: Glan Clwyd Sports Centre
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Prestatyn Wanderers AFC
     hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
     awayteam: Rhos United
@@ -23,6 +16,15 @@ fixtures:
     ground: Ffordd Las Community Centre
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Rhyl Albion
+    hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
+    hometeamscore: '0'
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: '6'
+    date: 2024-11-30T14:00:00.000Z
+    ground: Glan Clwyd Sports Centre
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
     hometeamscore: '6'
