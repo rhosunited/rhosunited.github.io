@@ -77,7 +77,7 @@ fetch(endpoint)
                 matchResults.push(matchDetails);
             }
             // upcoming fixtures
-            if (match.matchStatus == 'SCHEDULED' && match.matchDate > 0 && match.liveStatus == '') {
+            if ((match.matchStatus == 'SCHEDULED' || match.matchStatus == 'ENTERED') && match.matchDate > 0 && match.liveStatus == '') {
                 let hometeam = "";
                 let awayteam = "";
                 if (match.homeTeam == 31573) {
