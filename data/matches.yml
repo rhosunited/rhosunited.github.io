@@ -4,7 +4,7 @@ nextmatch:
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
   date: 2025-01-04T14:00:00.000Z
-  ground: John Bright Leisure Centre
+  ground: Go Goodwins Stadium
   competition: North Wales Coast East Football League 24/25 - Division 1
   kickoff: '2025-01-04 14:00'
 fixtures:
@@ -13,7 +13,7 @@ fixtures:
     awayteam: Rhos United
     awayteamlogo: /images/logo.png
     date: 2025-01-04T14:00:00.000Z
-    ground: John Bright Leisure Centre
+    ground: Go Goodwins Stadium
     competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Blue Bridge FC
     hometeamlogo: /images/teamlogos/2425/bluebridge.png
