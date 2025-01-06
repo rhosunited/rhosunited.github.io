@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Llandudno Swifts FC
-  hometeamlogo: /images/teamlogos/2425/llandudno.jpg
+  hometeam: Blue Bridge FC
+  hometeamlogo: /images/teamlogos/2425/bluebridge.png
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2025-01-04T14:00:00.000Z
-  ground: Go Goodwins Stadium
-  competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-01-04 14:00'
+  date: 2025-01-11T13:30:00.000Z
+  ground: Coronation Gardens
+  competition: North Wales Coast Football League East REM Jones Cup 24/25
+  kickoff: '2025-01-11 13:30'
 fixtures:
-  - hometeam: Llandudno Swifts FC
-    hometeamlogo: /images/teamlogos/2425/llandudno.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2025-01-04T14:00:00.000Z
-    ground: Go Goodwins Stadium
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Blue Bridge FC
     hometeamlogo: /images/teamlogos/2425/bluebridge.png
     awayteam: Rhos United
@@ -37,6 +30,15 @@ fixtures:
     ground: The Meadows
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Llandudno Swifts FC
+    hometeamlogo: /images/teamlogos/2425/llandudno.jpg
+    hometeamscore: '2'
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: '4'
+    date: 2025-01-04T14:00:00.000Z
+    ground: Go Goodwins Stadium
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhyl Albion
     hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
     hometeamscore: '0'
