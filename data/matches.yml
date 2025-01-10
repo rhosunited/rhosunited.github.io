@@ -29,6 +29,20 @@ fixtures:
     date: 2025-01-25T14:00:00.000Z
     ground: The Meadows
     competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Blue Bridge FC
+    hometeamlogo: /images/teamlogos/2425/bluebridge.png
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2025-02-01T14:00:00.000Z
+    ground: Coronation Gardens
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Prestatyn Wanderers AFC
+    awayteamlogo: /images/teamlogos/2425/prestatynwanderers.png
+    date: 2025-02-08T14:00:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
 results:
   - hometeam: Llandudno Swifts FC
     hometeamlogo: /images/teamlogos/2425/llandudno.jpg
