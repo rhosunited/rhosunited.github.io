@@ -3,17 +3,17 @@ nextmatch:
   hometeamlogo: /images/teamlogos/2425/bluebridge.png
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2025-01-11T13:30:00.000Z
-  ground: Coronation Gardens
+  date: 2025-01-11T19:30:00.000Z
+  ground: Go Goodwins Stadium
   competition: North Wales Coast Football League East REM Jones Cup 24/25
-  kickoff: '2025-01-11 13:30'
+  kickoff: '2025-01-11 19:30'
 fixtures:
   - hometeam: Blue Bridge FC
     hometeamlogo: /images/teamlogos/2425/bluebridge.png
     awayteam: Rhos United
     awayteamlogo: /images/logo.png
-    date: 2025-01-11T13:30:00.000Z
-    ground: Coronation Gardens
+    date: 2025-01-11T19:30:00.000Z
+    ground: Go Goodwins Stadium
     competition: North Wales Coast Football League East REM Jones Cup 24/25
   - hometeam: CPD Henllan FC - Mens
     hometeamlogo: /images/teamlogos/2425/henllan.jpg
