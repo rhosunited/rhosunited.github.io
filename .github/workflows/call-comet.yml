@@ -2,7 +2,7 @@ name: Call COMET API
 
 on:
   schedule:
-    - cron: "0 6 * * MON,WED,SAT"
+    - cron: "0 6 * * WED,SAT,SUN"
   workflow_dispatch:
 
 jobs:
