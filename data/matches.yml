@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Prestatyn Sports FC
-  hometeamlogo: /images/teamlogos/2425/prestatynsports.jpg
+  hometeam: Blue Bridge FC
+  hometeamlogo: /images/teamlogos/2425/bluebridge.png
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2025-01-25T14:00:00.000Z
-  ground: The Meadows
+  date: 2025-02-01T14:00:00.000Z
+  ground: Coronation Gardens
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-01-25 14:00'
+  kickoff: '2025-02-01 14:00'
 fixtures:
-  - hometeam: Prestatyn Sports FC
-    hometeamlogo: /images/teamlogos/2425/prestatynsports.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2025-01-25T14:00:00.000Z
-    ground: The Meadows
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Blue Bridge FC
     hometeamlogo: /images/teamlogos/2425/bluebridge.png
     awayteam: Rhos United
@@ -30,6 +23,15 @@ fixtures:
     ground: Betws Yn Rhos
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Prestatyn Sports FC
+    hometeamlogo: /images/teamlogos/2425/prestatynsports.jpg
+    hometeamscore: '2'
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: '2'
+    date: 2025-01-25T14:00:00.000Z
+    ground: The Meadows
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: CPD Henllan FC - Mens
     hometeamlogo: /images/teamlogos/2425/henllan.jpg
     hometeamscore: '0'
