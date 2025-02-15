@@ -44,6 +44,7 @@
               <ul class="dropdown arrow-top">
                 <li><a href="/teams/seniors.html">Seniors</a></li>
                 <li><a href="/teams/juniors.html">Juniors</a></li>
+                <li><a href="/teams/walking.html">Walking</a></li>
               </ul>
             </li>
             {% if content.activemenu == "club" %}<li class="has-children active">{% else %}<li class="has-children">{% endif %}
