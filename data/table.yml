@@ -2,9 +2,9 @@ table:
   - position: 1
     logo: /images/logo.png
     team: Rhos United
-    points: 44
-    played: 16
-    wins: 14
+    points: 47
+    played: 17
+    wins: 15
     draws: 2
     losses: 0
   - position: 2
@@ -59,10 +59,10 @@ table:
     logo: /images/teamlogos/2425/prestatynwanderers.png
     team: Prestatyn Wanderers AFC
     points: 3
-    played: 15
+    played: 16
     wins: 1
     draws: 0
-    losses: 14
+    losses: 15
   - position: 9
     logo: /images/teamlogos/2425/bluebridge.png
     team: Blue Bridge FC
