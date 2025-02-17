@@ -1,0 +1,60 @@
+{% extends "base.pebble" %}
+
+{% block title %}
+{{ content.title }}
+{% endblock %}
+
+{% block body %}
+
+<div class="site-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center mb-5">
+                <h2 class="text-black">Staff</h2>
+            </div>
+        </div>
+        <div class="row">
+            {% for staff in data.get("seniorscomet.yml").staff %}
+
+                <div class="mb-4 mb-lg-0 col-6 col-md-4 col-lg-3 text-center">
+                    <div class="playercomet mb-5">
+                        <!--<span class="team-number">10</span>-->
+                        <img src="{{staff.photo}}" alt="Image" class="img-fluid image rounded-circle">
+                        <h2>{{staff.name}}</h2>
+                        <span class="position">{{staff.role}}</span>
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 text-center mb-5">
+                <h2 class="text-black">Players</h2>
+            </div>
+        </div>
+        <div class="row">
+            {% for player in data.get("seniorscomet.yml").players %}
+
+                <div class="mb-4 mb-lg-0 col-6 col-md-4 col-lg-3 text-center">
+                    <div class="playercomet mb-5">
+                        <!--<span class="team-number">10</span>-->
+                        {% if player.infoimage %}
+                        <a class="image-popup" href="{{player.infoimage}}">
+                            <img src="{{player.photo}}" alt="Image" class="img-fluid image rounded-circle">
+                            <h2>{{player.name}}</h2>
+                        </a>
+                        {% else %}
+                        <img src="{{player.photo}}" alt="Image" class="img-fluid image rounded-circle">
+                        <h2>{{player.name}}</h2>
+                        {% endif %}
+                        <span class="position">{{player.role}}</span>
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

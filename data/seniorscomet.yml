@@ -1,0 +1,68 @@
+staff:
+  - name: David James Algieri
+    role: First Team Manager
+    photo: 'https://comet.faw.cymru/file?id=4228c442-2245-4f74-9d2e-515a3d425079'
+  - name: Matthew Graham
+    role: Coach
+    photo: 'https://comet.faw.cymru/file?id=cfe7bba5-1724-4b45-8c27-d5ebc454e4b2'
+  - name: Jordan Latham
+    role: Coach
+    photo: 'https://comet.faw.cymru/file?id=09fd5e83-3235-46f1-8ed1-078907a4e450'
+  - name: Alec Jones
+    role: Coach
+    photo: 'https://comet.faw.cymru/file?id=06694ac3-2c10-4b08-a8a0-fb34080e3702'
+players:
+  - name: Matthew Lloyd Christie
+    photo: 'https://comet.faw.cymru/file?id=81c0f444-9865-44de-acca-ad669709096a'
+  - name: Ray Anthony James Lee
+    photo: 'https://comet.faw.cymru/file?id=4b744075-f8b7-4ea6-ae55-62dafed022e4'
+  - name: Adam Noble
+    photo: 'https://comet.faw.cymru/file?id=ab63e081-f383-4995-ade1-83080d5d4023'
+  - name: Dewi Algieri
+    photo: 'https://comet.faw.cymru/file?id=57825df8-bda6-4095-8962-e2f986df88d6'
+  - name: David James Algieri
+    photo: 'https://comet.faw.cymru/file?id=4228c442-2245-4f74-9d2e-515a3d425079'
+  - name: Calfyn McQuilling
+    photo: 'https://comet.faw.cymru/file?id=4fef8474-1828-4c78-a273-ca52b41a9206'
+  - name: Callum Ross McMillan-Howden
+    photo: 'https://comet.faw.cymru/file?id=f9774718-84d2-4639-9efb-291c58a924c1'
+  - name: Thomas Brady
+    photo: 'https://comet.faw.cymru/file?id=d3e05d3c-6840-4ee9-bd98-daef652985bc'
+  - name: Alec Jones
+    photo: 'https://comet.faw.cymru/file?id=06694ac3-2c10-4b08-a8a0-fb34080e3702'
+  - name: John Richard King
+    photo: 'https://comet.faw.cymru/file?id=a5e21939-a689-4e81-823d-9f578ce254e7'
+  - name: William  Aaron Bibby
+    photo: 'https://comet.faw.cymru/file?id=154717be-bd30-41c8-a051-210230f52d21'
+  - name: Alex Colin Stokes
+    photo: 'https://comet.faw.cymru/file?id=034321f6-4089-4925-bdc2-ed0f68220c00'
+  - name: Jordan Connor Dixon
+    photo: 'https://comet.faw.cymru/file?id=f6a3c208-aa80-4169-964d-f58ea231b07e'
+  - name: Scott Lee Court
+    photo: 'https://comet.faw.cymru/file?id=90457cca-8caf-4dce-a381-b3fb9d2ffedc'
+  - name: Christopher Martin King
+    photo: 'https://comet.faw.cymru/file?id=95a5f1ee-bc1d-4f85-bfc8-ee7299819a84'
+  - name: Alex Mark Williams
+    photo: 'https://comet.faw.cymru/file?id=78cf146d-ea5b-4a09-9812-fe96d257105a'
+  - name: Oluwafemi Olalekan Allison
+    photo: 'https://comet.faw.cymru/file?id=70296960-6b17-49d0-af1d-faeac9e34b18'
+  - name: Bret James Spencer Durkan
+    photo: 'https://comet.faw.cymru/file?id=6fa4f7ab-3c02-4d5e-afd2-f21f4f4e86ee'
+  - name: Tom Skelley
+    photo: 'https://comet.faw.cymru/file?id=c8195941-779c-4a6d-921e-d77693228b80'
+  - name: Stephen Bibby
+    photo: 'https://comet.faw.cymru/file?id=dca3d427-8066-47dc-82a3-0dc26a21a52e'
+  - name: Lewis Marc Sealey
+    photo: 'https://comet.faw.cymru/file?id=235d3448-a477-4a60-9cee-42d055340704'
+  - name: Richard Hill
+    photo: 'https://comet.faw.cymru/file?id=52c7203b-d3b4-44df-8580-3d462e9cc712'
+  - name: Adam Jamie Williams
+    photo: 'https://comet.faw.cymru/file?id=60c56208-c922-4759-a314-118ad8e7fbff'
+  - name: Richard Ian Robert Hillier-Evans
+    photo: 'https://comet.faw.cymru/file?id=37220553-65a6-46f2-a08c-93f483bd6db7'
+  - name: Danny Diego Gizzi
+    photo: 'https://comet.faw.cymru/file?id=1926cf47-65bc-4ed3-90b7-7bb01d476cd9'
+  - name: Michael Chapman
+    photo: 'https://comet.faw.cymru/file?id=14f66b66-35a5-4f15-94c3-5f9655622f77'
+  - name: Callum Cunningham
+    photo: 'https://comet.faw.cymru/file?id=d31bcc2a-5e01-499b-a0d1-177525fce06e'

@@ -1125,6 +1125,7 @@ a:hover {
 .player img {
   border-radius: 50%;
   margin-bottom: 20px;
+  max-width: 50%;
 }
 
 .player .team-number {
@@ -1152,6 +1153,46 @@ a:hover {
 }
 
 .player .position {
+  font-size: 14px;
+  color: #b3b3b3;
+  text-transform: uppercase;
+}
+
+.playercomet {
+  position: relative;
+}
+
+.playercomet img {
+  border-radius: 50%;
+  margin-bottom: 20px;
+  max-width: 50%;
+}
+
+.playercomet .team-number {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #f23a2e;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.playercomet .team-number > span {
+  position: absolute;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+
+.playercomet h2 {
+  font-size: 20px;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
+.playercomet .position {
   font-size: 14px;
   color: #b3b3b3;
   text-transform: uppercase;
