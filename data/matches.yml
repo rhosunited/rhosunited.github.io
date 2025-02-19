@@ -4,7 +4,7 @@ nextmatch:
   awayteam: CPD Henllan FC - Mens
   awayteamlogo: /images/teamlogos/2425/henllan.jpg
   date: 2025-02-22T14:00:00.000Z
-  ground: Betws Yn Rhos
+  ground: Coleg Llandrillo
   competition: North Wales Coast East Football League 24/25 - Division 1
   kickoff: '2025-02-22 14:00'
 fixtures:
@@ -13,7 +13,7 @@ fixtures:
     awayteam: CPD Henllan FC - Mens
     awayteamlogo: /images/teamlogos/2425/henllan.jpg
     date: 2025-02-22T14:00:00.000Z
-    ground: Betws Yn Rhos
+    ground: Coleg Llandrillo
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
   - hometeam: Prestatyn Wanderers AFC
