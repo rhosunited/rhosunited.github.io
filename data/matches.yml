@@ -15,6 +15,34 @@ fixtures:
     date: 2025-02-22T14:00:00.000Z
     ground: Coleg Llandrillo
     competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Prestatyn Sports FC
+    awayteamlogo: /images/teamlogos/2425/prestatynsports.jpg
+    date: 2025-03-01T14:30:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: CPD Henllan FC - Mens
+    hometeamlogo: /images/teamlogos/2425/henllan.jpg
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2025-03-08T14:00:00.000Z
+    ground: Top Park
+    competition: North Wales Coast Football League East REM Jones Cup 24/25
+  - hometeam: Llysfaen FC
+    hometeamlogo: /images/teamlogos/2425/llysfaen.png
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2025-03-15T14:30:00.000Z
+    ground: The Bananabeu
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Penrhyn Bay FC
+    hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2025-03-29T14:30:00.000Z
+    ground: The Oval
+    competition: North Wales Coast East Football League 24/25 - Division 1
 results:
   - hometeam: Prestatyn Wanderers AFC
     hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
