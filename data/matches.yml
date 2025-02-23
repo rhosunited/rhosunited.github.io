@@ -1,20 +1,13 @@
 nextmatch:
   hometeam: Rhos United
   hometeamlogo: /images/logo.png
-  awayteam: CPD Henllan FC - Mens
-  awayteamlogo: /images/teamlogos/2425/henllan.jpg
-  date: 2025-02-22T14:00:00.000Z
-  ground: Coleg Llandrillo
+  awayteam: Prestatyn Sports FC
+  awayteamlogo: /images/teamlogos/2425/prestatynsports.jpg
+  date: 2025-03-01T14:30:00.000Z
+  ground: Betws Yn Rhos
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-02-22 14:00'
+  kickoff: '2025-03-01 14:30'
 fixtures:
-  - hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: CPD Henllan FC - Mens
-    awayteamlogo: /images/teamlogos/2425/henllan.jpg
-    date: 2025-02-22T14:00:00.000Z
-    ground: Coleg Llandrillo
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
     awayteam: Prestatyn Sports FC
@@ -44,6 +37,15 @@ fixtures:
     ground: The Oval
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: '5'
+    awayteam: CPD Henllan FC - Mens
+    awayteamlogo: /images/teamlogos/2425/henllan.jpg
+    awayteamscore: '0'
+    date: 2025-02-22T14:00:00.000Z
+    ground: Coleg Llandrillo
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Prestatyn Wanderers AFC
     hometeamlogo: /images/teamlogos/2425/prestatynwanderers.png
     hometeamscore: '0'
