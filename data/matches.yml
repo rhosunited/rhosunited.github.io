@@ -4,7 +4,7 @@ nextmatch:
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
   date: 2025-03-08T14:00:00.000Z
-  ground: Top Park
+  ground: Cae Llannefydd
   competition: North Wales Coast Football League East REM Jones Cup 24/25
   kickoff: '2025-03-08 14:00'
 fixtures:
@@ -13,7 +13,7 @@ fixtures:
     awayteam: Rhos United
     awayteamlogo: /images/logo.png
     date: 2025-03-08T14:00:00.000Z
-    ground: Top Park
+    ground: Cae Llannefydd
     competition: North Wales Coast Football League East REM Jones Cup 24/25
   - hometeam: Llysfaen FC
     hometeamlogo: /images/teamlogos/2425/llysfaen.png
