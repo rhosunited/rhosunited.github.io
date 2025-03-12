@@ -1,17 +1,16 @@
-name: Call COMET API
+name: COMET Seniors
 
 on:
   schedule:
-    - cron: "0 6 * * WED,SAT,SUN"
+    - cron: "0 5 * * SAT"
   workflow_dispatch:
 
 jobs:
   call-comet:
     runs-on: ubuntu-latest
     env:
-      CI_COMMIT_MESSAGE: Updates from COMET API
-      TABLE_API_CALL: ${{ secrets.TABLE_API_CALL }}
-      MATCHES_API_CALL: ${{ secrets.MATCHES_API_CALL }}
+      CI_COMMIT_MESSAGE: Update - COMET API Seniors
+      SENIORS_API_CALL: ${{ secrets.SENIORS_API_CALL }}
 
     permissions:
       contents: write
@@ -29,13 +28,9 @@ jobs:
         working-directory: ./callcomet
         run: npm ci
 
-      - name: Call API - table info
+      - name: Call API - seniors info
         working-directory: ./callcomet
-        run: node table.js
-
-      - name: Call API - match info
-        working-directory: ./callcomet
-        run: node matches.js
+        run: node seniors.js
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

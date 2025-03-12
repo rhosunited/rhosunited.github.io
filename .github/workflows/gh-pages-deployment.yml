@@ -5,7 +5,7 @@ on:
     branches:
       - main
   workflow_run:
-    workflows: [ "Call COMET API" ]
+    workflows: [ "COMET Matches" ]
     types:
       - completed
 
