@@ -1,156 +1,87 @@
 staff:
-  -
+  - personId: 85193
     name: David Algieri
     role: First Team Manager
-    photo: /images/logo.png
-  -
-    name: Matty Graham
-    role: Assistant Manager
-    photo: /images/logo.png
-  -
+    photo: 'https://comet.faw.cymru/file?id=4228c442-2245-4f74-9d2e-515a3d425079'
+  - personId: 636552
+    name: Matthew Graham
+    role: Coach
+    photo: 'https://comet.faw.cymru/file?id=cfe7bba5-1724-4b45-8c27-d5ebc454e4b2'
+  - personId: 88133
     name: Alec Jones
-    role: Assistant Manager
-    photo: /images/logo.png
-  -
-    name: Gavin Thomas
-    role: COMET Manager
-    photo: /images/logo.png
-
-players:
-  -
-    name: Gavin Lewis
-    role: Goalkeeper
-    photo: /images/logo.png
-    infoimage: /images/seniors/gavin-lewis.jpg
-  -
-    name: Felix Domagala
-    role: Goalkeeper
-    photo: /images/logo.png
-  -
-    name: Matty Russell
-    role: Goalkeeper
-    photo: /images/logo.png
-  -
-    name: Ste Bibby
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: Alex Williams
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: Alec Jones
-    role: Defender
-    photo: /images/logo.png
-    infoimage: /images/seniors/alec-jones.jpg
-  -
-    name: Alex Stokes
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: John King
-    role: Defender
-    photo: /images/logo.png
-    infoimage: /images/seniors/john-king.jpg
-  -
-    name: Jordan Dixon
-    role: Defender
-    photo: /images/logo.png
-    infoimage: /images/seniors/jordan-dixon.jpg
-  -
-    name: Oliver Hughes
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: Rich Bearon
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: Scott Hewitt
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: Theo Davies
-    role: Defender
-    photo: /images/logo.png
-  -
-    name: Tom Edgley
-    role: Defender
-    photo: /images/logo.png
-    infoimage: /images/seniors/tom-edgley.jpg
-  -
-    name: Billy Bibby
-    role: Midfielder
-    photo: /images/logo.png
-    infoimage: /images/seniors/billy-bibby.jpg
-  -
-    name: Callum McMillan-Howden
-    role: Midfielder
-    photo: /images/logo.png
-  -
-    name: Chris King
-    role: Midfielder (Vice Captain)
-    photo: /images/logo.png
-    infoimage: /images/seniors/chris-king.jpg
-  -
-    name: Dewi Algieri
-    role: Midfielder
-    photo: /images/logo.png
-    infoimage: /images/seniors/dewi-algieri.jpg
-  -
-    name: Matt Christie
-    role: Midfielder
-    photo: /images/logo.png
-    infoimage: /images/seniors/matt-christie.jpg
-  -
+    role: Coach
+    photo: 'https://comet.faw.cymru/file?id=06694ac3-2c10-4b08-a8a0-fb34080e3702'
+  - personId: 317049
     name: Ray Lee
-    role: Midfielder
-    photo: /images/logo.png
-  -
-    name: Ryan Evans
-    role: Midfielder
-    photo: /images/logo.png
-  -
-    name: Tom Skelley
-    role: Midfielder (Captain)
-    photo: /images/logo.png
-  -
-    name: Adam Noble
-    role: Attacker
-    photo: /images/logo.png
-  -
-    name: AJ Woosey
-    role: Attacker
-    photo: /images/logo.png
-  -
-    name: Bret Durkan
-    role: Attacker
-    photo: /images/logo.png
-    infoimage: /images/seniors/bret-durkan.jpg
-  -
-    name: Elliott Hughes
-    role: Attacker
-    photo: /images/logo.png
-  -
-    name: Phemmy Alison
-    role: Attacker
-    photo: /images/logo.png
-    infoimage: /images/seniors/phemmy-alison.jpg
-  -
-    name: Gabriel George
-    role: Attacker
-    photo: /images/logo.png
-  -
+    role: Coach
+    photo: 'https://comet.faw.cymru/file?id=4b744075-f8b7-4ea6-ae55-62dafed022e4'
+players:
+  - personId: 317049
+    name: Ray Lee
+    photo: 'https://comet.faw.cymru/file?id=4b744075-f8b7-4ea6-ae55-62dafed022e4'
+  - personId: 85193
+    name: David Algieri
+    photo: 'https://comet.faw.cymru/file?id=4228c442-2245-4f74-9d2e-515a3d425079'
+  - personId: 122184
+    name: Callum McMillan-Howden
+    photo: 'https://comet.faw.cymru/file?id=f9774718-84d2-4639-9efb-291c58a924c1'
+  - personId: 229947
+    name: Thomas Brady
+    photo: 'https://comet.faw.cymru/file?id=d3e05d3c-6840-4ee9-bd98-daef652985bc'
+  - personId: 88133
+    name: Alec Jones
+    photo: 'https://comet.faw.cymru/file?id=06694ac3-2c10-4b08-a8a0-fb34080e3702'
+  - personId: 243664
+    name: John King
+    photo: 'https://comet.faw.cymru/file?id=a5e21939-a689-4e81-823d-9f578ce254e7'
+  - personId: 14123
+    name: William Bibby
+    photo: 'https://comet.faw.cymru/file?id=154717be-bd30-41c8-a051-210230f52d21'
+  - personId: 152765
+    name: Alex Stokes
+    photo: 'https://comet.faw.cymru/file?id=034321f6-4089-4925-bdc2-ed0f68220c00'
+  - personId: 87811
+    name: Jordan Dixon
+    photo: 'https://comet.faw.cymru/file?id=f6a3c208-aa80-4169-964d-f58ea231b07e'
+  - personId: 187241
     name: Scott Court
-    role: Attacker
-    photo: /images/logo.png
-    infoimage: /images/seniors/scott-court.jpg
-  -
-    name: Tom Brady
-    role: Attacker
-    photo: /images/logo.png
-    infoimage: /images/seniors/tom-brady.jpg
-  -
-    name: Tommy Edwards
-    role: Attacker
-    photo: /images/logo.png
+    photo: 'https://comet.faw.cymru/file?id=90457cca-8caf-4dce-a381-b3fb9d2ffedc'
+  - personId: 125066
+    name: Christopher King
+    photo: 'https://comet.faw.cymru/file?id=95a5f1ee-bc1d-4f85-bfc8-ee7299819a84'
+  - personId: 278198
+    name: Alex Williams
+    photo: 'https://comet.faw.cymru/file?id=78cf146d-ea5b-4a09-9812-fe96d257105a'
+  - personId: 257065
+    name: Oluwafemi Allison
+    photo: 'https://comet.faw.cymru/file?id=70296960-6b17-49d0-af1d-faeac9e34b18'
+  - personId: 238286
+    name: Bret Durkan
+    photo: 'https://comet.faw.cymru/file?id=6fa4f7ab-3c02-4d5e-afd2-f21f4f4e86ee'
+  - personId: 78714
+    name: Tom Skelley
+    photo: 'https://comet.faw.cymru/file?id=c8195941-779c-4a6d-921e-d77693228b80'
+  - personId: 53685
+    name: Stephen Bibby
+    photo: 'https://comet.faw.cymru/file?id=dca3d427-8066-47dc-82a3-0dc26a21a52e'
+  - personId: 319669
+    name: Lewis Sealey
+    photo: 'https://comet.faw.cymru/file?id=235d3448-a477-4a60-9cee-42d055340704'
+  - personId: 337243
+    name: Richard Hill
+    photo: 'https://comet.faw.cymru/file?id=52c7203b-d3b4-44df-8580-3d462e9cc712'
+  - personId: 222178
+    name: Adam Williams
+    photo: 'https://comet.faw.cymru/file?id=60c56208-c922-4759-a314-118ad8e7fbff'
+  - personId: 394125
+    name: Richard Hillier-Evans
+    photo: 'https://comet.faw.cymru/file?id=37220553-65a6-46f2-a08c-93f483bd6db7'
+  - personId: 261140
+    name: Danny Gizzi
+    photo: 'https://comet.faw.cymru/file?id=1926cf47-65bc-4ed3-90b7-7bb01d476cd9'
+  - personId: 189128
+    name: Michael Chapman
+    photo: 'https://comet.faw.cymru/file?id=14f66b66-35a5-4f15-94c3-5f9655622f77'
+  - personId: 216793
+    name: Callum Cunningham
+    photo: 'https://comet.faw.cymru/file?id=d31bcc2a-5e01-499b-a0d1-177525fce06e'
