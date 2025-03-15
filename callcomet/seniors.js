@@ -6,7 +6,7 @@ function processName(reg) {
     return reg.firstName.split(" ")[0] + ' ' + reg.lastName;
 }
 
-const personsToExclude = [100615, 196419, 122020];
+const personsToExclude = [100615, 196419, 122020, 12952];
 
 fetch(endpoint)
     .then(res => {
@@ -54,7 +54,7 @@ fetch(endpoint)
         }
         console.log('Staff = ', staff.length);
         console.log('Players = ', players.length);
-        yaml.sync('../data/seniorscomet.yml', output);
+        yaml.sync('../data/seniors.yml', output);
     })
     .catch(err => {
         console.error(err);

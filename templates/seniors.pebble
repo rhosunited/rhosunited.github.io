@@ -17,7 +17,7 @@
             {% for staff in data.get("seniors.yml").staff %}
 
                 <div class="mb-4 mb-lg-0 col-6 col-md-4 col-lg-3 text-center">
-                    <div class="player mb-5">
+                    <div class="playercomet mb-5">
                         <!--<span class="team-number">10</span>-->
                         <img src="{{staff.photo}}" alt="Image" class="img-fluid image rounded-circle">
                         <h2>{{staff.name}}</h2>
@@ -37,7 +37,7 @@
             {% for player in data.get("seniors.yml").players %}
 
                 <div class="mb-4 mb-lg-0 col-6 col-md-4 col-lg-3 text-center">
-                    <div class="player mb-5">
+                    <div class="playercomet mb-5">
                         <!--<span class="team-number">10</span>-->
                         {% if player.infoimage %}
                         <a class="image-popup" href="{{player.infoimage}}">
