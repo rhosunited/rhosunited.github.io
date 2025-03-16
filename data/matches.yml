@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Llysfaen FC
-  hometeamlogo: /images/teamlogos/2425/llysfaen.png
+  hometeam: Penrhyn Bay FC
+  hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2025-03-15T14:30:00.000Z
-  ground: The Bananabeu
+  date: 2025-03-29T14:30:00.000Z
+  ground: The Oval
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-03-15 14:30'
+  kickoff: '2025-03-29 14:30'
 fixtures:
-  - hometeam: Llysfaen FC
-    hometeamlogo: /images/teamlogos/2425/llysfaen.png
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2025-03-15T14:30:00.000Z
-    ground: The Bananabeu
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Penrhyn Bay FC
     hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
     awayteam: Rhos United
@@ -23,6 +16,15 @@ fixtures:
     ground: The Oval
     competition: North Wales Coast East Football League 24/25 - Division 1
 results:
+  - hometeam: Llysfaen FC
+    hometeamlogo: /images/teamlogos/2425/llysfaen.png
+    hometeamscore: '0'
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: '3'
+    date: 2025-03-15T14:30:00.000Z
+    ground: The Bananabeu
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: CPD Henllan FC - Mens
     hometeamlogo: /images/teamlogos/2425/henllan.jpg
     hometeamscore: '1'
