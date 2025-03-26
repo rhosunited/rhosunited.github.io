@@ -15,6 +15,34 @@ fixtures:
     date: 2025-03-29T14:30:00.000Z
     ground: The Oval
     competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhyl Albion
+    hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2025-04-05T13:30:00.000Z
+    ground: Glan Clwyd Sports Centre
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Prestatyn Wanderers AFC
+    awayteamlogo: /images/teamlogos/2425/prestatynwanderers.png
+    date: 2025-04-12T13:30:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    awayteam: Llandudno Swifts FC
+    awayteamlogo: /images/teamlogos/2425/llandudno.jpg
+    date: 2025-04-19T13:30:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
+  - hometeam: Penrhyn Bay FC
+    hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    date: 2025-04-26T13:00:00.000Z
+    ground: Go Goodwins Stadium
+    competition: North Wales Coast Football League East REM Jones Cup 24/25
 results:
   - hometeam: Llysfaen FC
     hometeamlogo: /images/teamlogos/2425/llysfaen.png
