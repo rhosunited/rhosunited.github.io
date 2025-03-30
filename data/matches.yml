@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Penrhyn Bay FC
-  hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
+  hometeam: Rhyl Albion
+  hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
-  date: 2025-03-29T14:30:00.000Z
-  ground: The Oval
+  date: 2025-04-05T13:30:00.000Z
+  ground: Glan Clwyd Sports Centre
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-03-29 14:30'
+  kickoff: '2025-04-05 13:30'
 fixtures:
-  - hometeam: Penrhyn Bay FC
-    hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
-    awayteam: Rhos United
-    awayteamlogo: /images/logo.png
-    date: 2025-03-29T14:30:00.000Z
-    ground: The Oval
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhyl Albion
     hometeamlogo: /images/teamlogos/2425/rhylalbion.jpg
     awayteam: Rhos United
@@ -44,6 +37,15 @@ fixtures:
     ground: Go Goodwins Stadium
     competition: North Wales Coast Football League East REM Jones Cup 24/25
 results:
+  - hometeam: Penrhyn Bay FC
+    hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
+    hometeamscore: '1'
+    awayteam: Rhos United
+    awayteamlogo: /images/logo.png
+    awayteamscore: '4'
+    date: 2025-03-29T14:30:00.000Z
+    ground: Coleg Llandrillo
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Llysfaen FC
     hometeamlogo: /images/teamlogos/2425/llysfaen.png
     hometeamscore: '0'
