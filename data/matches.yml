@@ -4,7 +4,7 @@ nextmatch:
   awayteam: Rhos United
   awayteamlogo: /images/logo.png
   date: 2025-04-05T13:30:00.000Z
-  ground: Glan Clwyd Sports Centre
+  ground: Y Morfa Stadium
   competition: North Wales Coast East Football League 24/25 - Division 1
   kickoff: '2025-04-05 13:30'
 fixtures:
@@ -13,7 +13,7 @@ fixtures:
     awayteam: Rhos United
     awayteamlogo: /images/logo.png
     date: 2025-04-05T13:30:00.000Z
-    ground: Glan Clwyd Sports Centre
+    ground: Y Morfa Stadium
     competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
