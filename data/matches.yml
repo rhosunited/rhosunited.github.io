@@ -3,16 +3,16 @@ nextmatch:
   hometeamlogo: /images/logo.png
   awayteam: Prestatyn Wanderers AFC
   awayteamlogo: /images/teamlogos/2425/prestatynwanderers.png
-  date: 2025-04-12T13:30:00.000Z
+  date: 2025-04-15T17:30:00.000Z
   ground: Betws Yn Rhos
   competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-04-12 13:30'
+  kickoff: '2025-04-15 17:30'
 fixtures:
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
     awayteam: Prestatyn Wanderers AFC
     awayteamlogo: /images/teamlogos/2425/prestatynwanderers.png
-    date: 2025-04-12T13:30:00.000Z
+    date: 2025-04-15T17:30:00.000Z
     ground: Betws Yn Rhos
     competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
