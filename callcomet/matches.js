@@ -1,5 +1,5 @@
 const fetch = require('cross-fetch');
-const moment = require('moment');
+const moment = require('moment-timezone');
 const yaml = require('write-yaml');
 const common = require('./common');
 const endpoint = process.env.MATCHES_API_CALL;
@@ -115,7 +115,7 @@ fetch(endpoint)
             }
         });
         fixtures.sort(sortAsc);
-        let nextMatch = { ...fixtures[0], kickoff: moment(fixtures[0].date).format("yyyy-MM-DD HH:mm") };
+        let nextMatch = { ...fixtures[0], kickoff: moment.tz(fixtures[0].date, "Europe/London").format("yyyy-MM-DD HH:mm") };
 
         matchResults.sort(sortDesc);
         var output = {
