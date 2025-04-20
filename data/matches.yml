@@ -1,20 +1,13 @@
 nextmatch:
-  hometeam: Rhos United
-  hometeamlogo: /images/logo.png
-  awayteam: Llandudno Swifts FC
-  awayteamlogo: /images/teamlogos/2425/llandudno.jpg
-  date: 2025-04-19T13:30:00.000Z
-  ground: Betws Yn Rhos
-  competition: North Wales Coast East Football League 24/25 - Division 1
-  kickoff: '2025-04-19 14:30'
+  hometeam: Penrhyn Bay FC
+  hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
+  awayteam: Rhos United
+  awayteamlogo: /images/logo.png
+  date: 2025-04-26T13:00:00.000Z
+  ground: Go Goodwins Stadium
+  competition: North Wales Coast Football League East REM Jones Cup 24/25
+  kickoff: '2025-04-26 14:00'
 fixtures:
-  - hometeam: Rhos United
-    hometeamlogo: /images/logo.png
-    awayteam: Llandudno Swifts FC
-    awayteamlogo: /images/teamlogos/2425/llandudno.jpg
-    date: 2025-04-19T13:30:00.000Z
-    ground: Betws Yn Rhos
-    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Penrhyn Bay FC
     hometeamlogo: /images/teamlogos/2425/penrhynbay.jpg
     awayteam: Rhos United
@@ -23,6 +16,15 @@ fixtures:
     ground: Go Goodwins Stadium
     competition: North Wales Coast Football League East REM Jones Cup 24/25
 results:
+  - hometeam: Rhos United
+    hometeamlogo: /images/logo.png
+    hometeamscore: '3'
+    awayteam: Llandudno Swifts FC
+    awayteamlogo: /images/teamlogos/2425/llandudno.jpg
+    awayteamscore: '3'
+    date: 2025-04-19T13:30:00.000Z
+    ground: Betws Yn Rhos
+    competition: North Wales Coast East Football League 24/25 - Division 1
   - hometeam: Rhos United
     hometeamlogo: /images/logo.png
     hometeamscore: '2'
