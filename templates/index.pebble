@@ -5,6 +5,7 @@
         <div id="fb-root"></div>
         <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v20.0" nonce="Wry5ou8q"></script>
 
+        <!--
         <div class="site-blocks-vs site-section bg-light">
           <div class="container">
 
@@ -100,6 +101,39 @@
             </div>
           </div>
         </div>
+        -->
+
+        <div class="site-section bg-light">
+
+            <div class="container">
+                <div class="row mb-5">
+                  <div class="col-md-12 text-center">
+                    <h2 class="text-black">Latest News</h2>
+                  </div>
+                </div>
+
+                <div class="row">
+                    {% for news in published_newsitems | slice(0, 3) %}
+
+                          <div class="col-md-6 col-lg-4">
+                            <div class="post-entry bg-white">
+                              <div class="image">
+                                <img src="{{news.newsimage}}" alt="Image" class="img-fluid">
+                              </div>
+                              <div class="text p-4">
+                                  <h2 class="h5 text-black"><a href="{{news.uri}}">{{news.title}}</a></h2>
+                                  <span class="text-uppercase date d-block mb-3"><small>By {{news.author}} &bullet; {{news.date|date("dd MMM yyyy")}}</small></span>
+                                  <p class="mb-3">{{news.headersubtitle}}</p>
+                                  <p><a href="{{news.uri}}" class="btn btn-primary btn-sm px-4 py-2 rounded-0">Read More</a></p>
+                              </div>
+                            </div>
+                          </div>
+
+                    {% endfor %}
+                </div>
+            </div>
+
+        </div>
 
         <div class="site-section block-13 bg-primary fixed overlay-primary bg-image" style="background-image: url('/images/brookfield_drone.jpg');"  data-stellar-background-ratio="0.5">
 
@@ -110,8 +144,8 @@
               </div>
             </div>
 
-            <div class="row">
-              <div class="col-md-12 col-lg-12">
+            <div class="row justify-content-center">
+              <div class="col-md-5 col-lg-5">
                 <div class="fb-page" data-href="https://www.facebook.com/RhosUnitedFC" data-show-posts="true" data-width="600" data-height="800" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RhosUnitedFC" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RhosUnitedFC">Rhos United Football Club</a></blockquote></div>
               </div>
             </div>
