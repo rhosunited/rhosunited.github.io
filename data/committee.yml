@@ -1,29 +1,20 @@
 committee:
   -
-    name: James Healy
+    name: Del Sykes
     role: Chairman
     photo: /images/logo.png
-    email: chairman@rhosunited.co.uk
   -
-    name: Jon Parry
-    role: Vice-Chairman
-    photo: /images/logo.png
-    email: chairman@rhosunited.co.uk
-  -
-    name: David Ashworth
+    name: Richard Hillier-Evans
     role: Secretary
     photo: /images/logo.png
-    email: secretary@rhosunited.co.uk
   -
-    name: Jonathan Bullock
+    name: Richard Hill
     role: Treasurer
     photo: /images/logo.png
-    email: treasurer@rhosunited.co.uk
   -
     name: Lisa Wilkins
     role: Safeguarding Officer
     photo: /images/logo.png
-    email: safeguarding@rhosunited.co.uk
   -
     name: Bret Durkan
     role: Head of Social Media
